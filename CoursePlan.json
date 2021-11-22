@@ -1,0 +1,3861 @@
+{
+    "ENCE605022": {
+        "Nama": "Arsitektur Komputer Moderen (2 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Ars. Komp. Modern",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "S.202",
+                "Dosen": [
+                    "Dr. Bagio Budiardjo"
+                ]
+            }
+        ]
+    },
+    "ENCE603008": {
+        "Nama": "Dasar Rangkaian Elektronika (2 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Dasar Rangk Elek-01",
+                "Jadwal": [
+                    "Senin, 16.00-17.40"
+                ],
+                "Ruang": "K.106",
+                "Dosen": [
+                    "Tomy Abuzairi S.T., M.Sc., Ph.D."
+                ]
+            },
+            {
+                "Nama": "Kelas Dasar Rangk Elek-02",
+                "Jadwal": [
+                    "Senin, 16.00-17.40"
+                ],
+                "Ruang": "K.211",
+                "Dosen": [
+                    "Prof. Dr. Ir. Nji Raden Poespawati M.T."
+                ]
+            }
+        ]
+    },
+    "ENCE607041": {
+        "Nama": "Dasar Regulasi dan Kebijakan Publik TIK (3 SKS, Term 7)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Dasar Reg Kebijak 01",
+                "Jadwal": [
+                    "Kamis, 13.00-15.30"
+                ],
+                "Ruang": "K.211",
+                "Dosen": [
+                    "Prof. Dr.-Ing. Ir. Kalamullah Ramli M.Eng."
+                ]
+            },
+            {
+                "Nama": "Kelas Dasar Reg Kebijak 02",
+                "Jadwal": [
+                    "Selasa, 07.00-09.30"
+                ],
+                "Ruang": "K.101",
+                "Dosen": ""
+            }
+        ]
+    },
+    "ENEE602005": {
+        "Nama": "Dasar Sistem Digital dan Praktikum (3 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Dasar Sistem Dig-01",
+                "Jadwal": [
+                    "Jumat, 13.00-15.30"
+                ],
+                "Ruang": "K.103",
+                "Dosen": [
+                    "Prof. Dr. Ir. Anak Agung Putri Ratna M.Eng."
+                ]
+            },
+            {
+                "Nama": "Kelas Dasar Sistem Dig-02",
+                "Jadwal": [
+                    "Jumat, 13.00-15.30"
+                ],
+                "Ruang": "K.211",
+                "Dosen": [
+                    "Dr. Prima Dewi Purnamasari S.T., M.Sc."
+                ]
+            }
+        ]
+    },
+    "ENCE604015": {
+        "Nama": "Desain & Manajemen Jaringan Komputer + P (4 SKS, Term 4)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Desain Manaj Jari 01",
+                "Jadwal": [
+                    "Selasa, 13.00-15.30",
+                    "Jumat, 08.00-08.40"
+                ],
+                "Ruang": "S.103Lab.DTE",
+                "Dosen": [
+                    "Dr. Yohan Suryanto S.T., M.T.",
+                    "Elvian Syafrurizal, M.T."
+                ]
+            },
+            {
+                "Nama": "Kelas Desain Manaj Jari 02",
+                "Jadwal": [
+                    "Senin, 10.00-12.30",
+                    "Kamis, 18.00-18.40"
+                ],
+                "Ruang": "Lab.DTE",
+                "Dosen": [
+                    "Dr. Yohan Suryanto S.T., M.T.",
+                    "Elvian Syafrurizal, M.T."
+                ]
+            }
+        ]
+    },
+    "ENCE607031": {
+        "Nama": "Desain Proyek Teknik Komputer 2 (3 SKS, Term 7)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Desain Proyk Tek2 01",
+                "Jadwal": [
+                    "Jumat, 16.00-18.30"
+                ],
+                "Ruang": "S.205",
+                "Dosen": [
+                    "Fransiskus Astha Ekadiyanto S.T., M.Sc.",
+                    "I Gde Dharma Nugraha S.T., M.T., Ph.D."
+                ]
+            }
+        ]
+    },
+    "ENCE603006": {
+        "Nama": "Jaringan Komputer dan Praktikum (4 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Jaringan Komp.+P 01",
+                "Jadwal": [
+                    "Selasa, 07.00-09.30",
+                    "Kamis, 18.00-18.40"
+                ],
+                "Ruang": "K.205Lab.DTE",
+                "Dosen": [
+                    "Diyanatul Husna, M.T."
+                ]
+            }
+        ]
+    },
+    "ENCE605021": {
+        "Nama": "Jaringan Telekomunikasi dan Praktikum (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Jaringan Telekom 01",
+                "Jadwal": [
+                    "Rabu, 07.00-09.30"
+                ],
+                "Ruang": "K.107",
+                "Dosen": [
+                    "Prof. Dr.-Ing. Ir. Kalamullah Ramli M.Eng."
+                ]
+            },
+            {
+                "Nama": "Kelas Jaringan Telekom 02",
+                "Jadwal": [
+                    "Selasa, 07.00-09.30"
+                ],
+                "Ruang": "S.402",
+                "Dosen": [
+                    "Prof. Dr.-Ing. Ir. Kalamullah Ramli M.Eng."
+                ]
+            },
+            {
+                "Nama": "Kelas Jaringan Telekom 03",
+                "Jadwal": [
+                    "Rabu, 07.00-09.30"
+                ],
+                "Ruang": "K.106",
+                "Dosen": [
+                    "Dr. Ir. Catur Apriono S.T., M.T., Ph.D."
+                ]
+            }
+        ]
+    },
+    "ENCE607039": {
+        "Nama": "Kapita Selekta Teknik Komputer (2 SKS, Term 7)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Kapita Selekta TeKom",
+                "Jadwal": [
+                    "Kamis, 16.00-17.40"
+                ],
+                "Ruang": "K.107",
+                "Dosen": [
+                    "I Gde Dharma Nugraha S.T., M.T., Ph.D."
+                ]
+            }
+        ]
+    },
+    "ENCE605020": {
+        "Nama": "Keamanan Jaringan Komputer dan Praktikum (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Keamanan Jar Komp 01",
+                "Jadwal": [
+                    "Selasa, 10.00-12.30",
+                    "Kamis, 08.00-09.40"
+                ],
+                "Ruang": "S.301Lab.Puskom.207",
+                "Dosen": [
+                    "Dr. lr. Muhammad Salman S.T., M.I.T."
+                ]
+            },
+            {
+                "Nama": "Kelas Keamanan Jar Komp 02",
+                "Jadwal": [
+                    "Selasa, 16.00-18.30",
+                    "Kamis, 13.00-14.40"
+                ],
+                "Ruang": "Lab.Puskom.207S.404",
+                "Dosen": [
+                    "Dr. lr. Muhammad Salman S.T., M.I.T."
+                ]
+            }
+        ]
+    },
+    "ENCE606028": {
+        "Nama": "Kerja Praktek (2 SKS, Term 6)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Kerja Praktek",
+                "Jadwal": "",
+                "Ruang": "",
+                "Dosen": ""
+            }
+        ]
+    },
+    "ENCE603007": {
+        "Nama": "Pemrograman Berorientasi Objek dan Praktik (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Pemrog Orien Objk 01",
+                "Jadwal": [
+                    "Senin, 13.00-15.30"
+                ],
+                "Ruang": "Lab.Puskom.207",
+                "Dosen": [
+                    "I Gde Dharma Nugraha S.T., M.T., Ph.D.",
+                    "Dr. Ruki Harwahyu S.T., M.T., M.Sc."
+                ]
+            },
+            {
+                "Nama": "Kelas Pemrog Orien Objk 02",
+                "Jadwal": [
+                    "Rabu, 13.00-15.30"
+                ],
+                "Ruang": "Lab.Puskom.207",
+                "Dosen": [
+                    "I Gde Dharma Nugraha S.T., M.T., Ph.D.",
+                    "Dr. Ruki Harwahyu S.T., M.T., M.Sc."
+                ]
+            },
+            {
+                "Nama": "Kelas Pemrog Orien Objk 03",
+                "Jadwal": [
+                    "Rabu, 13.00-15.30"
+                ],
+                "Ruang": "K.107",
+                "Dosen": [
+                    "Diyanatul Husna, M.T."
+                ]
+            }
+        ]
+    },
+    "ENCE601001": {
+        "Nama": "Pemrograman Dasar dan Praktikum (3 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Pemrograman Dasar-01",
+                "Jadwal": [
+                    "Selasa, 10.00-12.30"
+                ],
+                "Ruang": "Lab.Puskom.201",
+                "Dosen": [
+                    "Dr. Prima Dewi Purnamasari S.T., M.Sc."
+                ]
+            },
+            {
+                "Nama": "Kelas Pemrograman Dasar-02",
+                "Jadwal": [
+                    "Selasa, 10.00-12.30"
+                ],
+                "Ruang": "GK.306",
+                "Dosen": [
+                    "Prof. Dr. Ir. Anak Agung Putri Ratna M.Eng."
+                ]
+            }
+        ]
+    },
+    "ENCE607040": {
+        "Nama": "Pengembangan Profesional Terpadu - 1 (2 SKS, Term 7)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Pengembangan Prof 01",
+                "Jadwal": "",
+                "Ruang": "",
+                "Dosen": ""
+            }
+        ]
+    },
+    "ENCE608043": {
+        "Nama": "Pengembangan Profesional Terpadu - 2 (2 SKS, Term 8)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Pengembangan Prof 02",
+                "Jadwal": "",
+                "Ruang": "",
+                "Dosen": ""
+            }
+        ]
+    },
+    "ENCE603004": {
+        "Nama": "Perancangan Sistem Digital dan Praktikum (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Peranc. Siste Dig 01",
+                "Jadwal": [
+                    "Rabu, 07.00-09.30"
+                ],
+                "Ruang": "S.404",
+                "Dosen": [
+                    "Dr. Ruki Harwahyu S.T., M.T., M.Sc.",
+                    "Yan Maraden S.T., M.T., M.Sc."
+                ]
+            },
+            {
+                "Nama": "Kelas Peranc. Siste Dig 02",
+                "Jadwal": [
+                    "Senin, 10.00-12.30"
+                ],
+                "Ruang": "K.203",
+                "Dosen": [
+                    "Yan Maraden S.T., M.T., M.Sc.",
+                    "I Gde Dharma Nugraha S.T., M.T., Ph.D."
+                ]
+            }
+        ]
+    },
+    "ENCE605023": {
+        "Nama": "Probabilitas dan Proses Stokastik (2 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Prob dan Pro Stok-01",
+                "Jadwal": [
+                    "Jumat, 13.00-15.30"
+                ],
+                "Ruang": "S.601",
+                "Dosen": [
+                    "Prof. Dr. Ir. Dadang Gunawan M.Eng."
+                ]
+            },
+            {
+                "Nama": "Kelas Prob dan Pro Stok-02",
+                "Jadwal": [
+                    "Rabu, 16.00-18.30"
+                ],
+                "Ruang": "S.607",
+                "Dosen": [
+                    "Prof. Dr. Ir. Muhamad Asvial M.Eng."
+                ]
+            }
+        ]
+    },
+    "ENCE603009": {
+        "Nama": "Rangkaian Listrik (2 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Rangkaian Listrik 01",
+                "Jadwal": [
+                    "Selasa, 13.00-14.40"
+                ],
+                "Ruang": "S.202",
+                "Dosen": [
+                    "Prof. Dr. Ir. Retno Wigajatri Purnamaningsih M.T."
+                ]
+            },
+            {
+                "Nama": "Kelas Rangkaian Listrik 02",
+                "Jadwal": [
+                    "Selasa, 13.00-14.40"
+                ],
+                "Ruang": "K.209",
+                "Dosen": [
+                    "Prof. Dr. Ir. Nji Raden Poespawati M.T."
+                ]
+            }
+        ]
+    },
+    "ENCE605018": {
+        "Nama": "Rekayasa Perangkat Lunak (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas RPL-01",
+                "Jadwal": [
+                    "Senin, 13.00-15.30"
+                ],
+                "Ruang": "GK.303",
+                "Dosen": [
+                    "Prof. Dr. Ir. Riri Fitri Sari M.M., M.Sc."
+                ]
+            },
+            {
+                "Nama": "Kelas RPL-02",
+                "Jadwal": [
+                    "Jumat, 16.00-18.30"
+                ],
+                "Ruang": "GK.303",
+                "Dosen": [
+                    "Prof. Dr. Ir. Riri Fitri Sari M.M., M.Sc."
+                ]
+            }
+        ]
+    },
+    "ENCE607032": {
+        "Nama": "Seminar (2 SKS, Term 7)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Seminar",
+                "Jadwal": "",
+                "Ruang": "",
+                "Dosen": ""
+            }
+        ]
+    },
+    "ENCE605019": {
+        "Nama": "Sistem Waktu Nyata dan IoT dan Praktikum (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Sis Wakt Nyata IoT 1",
+                "Jadwal": [
+                    "Kamis, 16.00-18.30"
+                ],
+                "Ruang": "K.211",
+                "Dosen": [
+                    "Fransiskus Astha Ekadiyanto S.T., M.Sc."
+                ]
+            },
+            {
+                "Nama": "Kelas Sis Wakt Nyata IoT 2",
+                "Jadwal": [
+                    "Senin, 07.00-09.30"
+                ],
+                "Ruang": "S.203",
+                "Dosen": [
+                    "Fransiskus Astha Ekadiyanto S.T., M.Sc."
+                ]
+            },
+            {
+                "Nama": "Kelas Sis Wakt Nyata IoT 3",
+                "Jadwal": [
+                    "Senin, 07.00-09.30"
+                ],
+                "Ruang": "",
+                "Dosen": [
+                    "Dr. Yohan Suryanto S.T., M.T.",
+                    "Yan Maraden S.T., M.T., M.Sc."
+                ]
+            }
+        ]
+    },
+    "ENCE608033": {
+        "Nama": "Skripsi (4 SKS, Term 8)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Skripsi",
+                "Jadwal": "",
+                "Ruang": "",
+                "Dosen": ""
+            }
+        ]
+    },
+    "ENCE603010": {
+        "Nama": "Statistika (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Statistika 01",
+                "Jadwal": [
+                    "Jumat, 08.00-10.30"
+                ],
+                "Ruang": "K.106",
+                "Dosen": [
+                    "Dr. Prima Dewi Purnamasari S.T., M.Sc."
+                ]
+            },
+            {
+                "Nama": "Kelas Statistika 02",
+                "Jadwal": [
+                    "Jumat, 08.00-10.30"
+                ],
+                "Ruang": "S.302",
+                "Dosen": [
+                    "Ajib Setyo Arifin S.T., M.T., Ph.D."
+                ]
+            }
+        ]
+    },
+    "ENCE603005": {
+        "Nama": "Struktur Diskrit (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Struktur Diskrit",
+                "Jadwal": [
+                    "Jumat, 13.00-15.30"
+                ],
+                "Ruang": "S.203",
+                "Dosen": [
+                    "Dr. Eng. Mia Rizkinia S.T., M.T.",
+                    "Yan Maraden S.T., M.T., M.Sc."
+                ]
+            },
+            {
+                "Nama": "Kelas Struktur Diskrit",
+                "Jadwal": [
+                    "Kamis, 10.00-12.30"
+                ],
+                "Ruang": "S.303",
+                "Dosen": [
+                    "Dr. Eng. Mia Rizkinia S.T., M.T.",
+                    "Yan Maraden S.T., M.T., M.Sc."
+                ]
+            }
+        ]
+    },
+    "ENCE605034": {
+        "Nama": "Teknologi Big Data (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Teknologi Big Data",
+                "Jadwal": [
+                    "Senin, 16.00-18.30"
+                ],
+                "Ruang": "S.502",
+                "Dosen": [
+                    "I Gde Dharma Nugraha S.T., M.T., Ph.D."
+                ]
+            }
+        ]
+    },
+    "ENCE607038": {
+        "Nama": "Teknologi Geospasial (2 SKS, Term 7)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Teknologi Geospasial",
+                "Jadwal": [
+                    "Jumat, 08.00-09.40"
+                ],
+                "Ruang": "K.202",
+                "Dosen": [
+                    "Dr. Ir. Dodi Sudiana M.Eng."
+                ]
+            }
+        ]
+    },
+    "ENCE605024": {
+        "Nama": "Teori Sinyal dan Analisis Sistem (2 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Sinyal  Analisis 01",
+                "Jadwal": [
+                    "Jumat, 08.00-09.40"
+                ],
+                "Ruang": "S.301",
+                "Dosen": [
+                    "Dr. Eng. Mia Rizkinia S.T., M.T.",
+                    "Yan Maraden S.T., M.T., M.Sc."
+                ]
+            },
+            {
+                "Nama": "Kelas Sinyal  Analisis 02",
+                "Jadwal": [
+                    "Kamis, 08.00-09.40"
+                ],
+                "Ruang": "S.402",
+                "Dosen": [
+                    "Dr. Eng. Mia Rizkinia S.T., M.T.",
+                    "Yan Maraden S.T., M.T., M.Sc."
+                ]
+            },
+            {
+                "Nama": "Nama Kelas",
+                "Jadwal": [],
+                "Ruang": "Ruang",
+                "Dosen": [
+                    "Pengajar"
+                ]
+            }
+        ]
+    },
+    "ENGE600004": {
+        "Nama": "Aljabar Linier (4 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Aljabar Linier 20-01",
+                "Jadwal": [
+                    "Selasa, 16.00-17.40",
+                    "Kamis, 16.00-17.40"
+                ],
+                "Ruang": "S.605S.605",
+                "Dosen": [
+                    "Siti Fauziyah Rahman S.T., M. Eng., Ph.D."
+                ]
+            },
+            {
+                "Nama": "Kelas Aljabar Linier 20-02",
+                "Jadwal": [
+                    "Selasa, 16.00-17.40",
+                    "Kamis, 16.00-17.40"
+                ],
+                "Ruang": "S.606S.606",
+                "Dosen": [
+                    "Dr. D.Lucia Crispina Pardede"
+                ]
+            },
+            {
+                "Nama": "Kelas Aljabar Linier 20-03",
+                "Jadwal": [
+                    "Selasa, 16.00-17.40",
+                    "Kamis, 16.00-17.40"
+                ],
+                "Ruang": "S.304S.304",
+                "Dosen": [
+                    "Nadhilah Reyseliani, M.T."
+                ]
+            }
+        ]
+    },
+    "UIGE600014": {
+        "Nama": "Buddha (2 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Buddha",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "K.105",
+                "Dosen": [
+                    "Soelijono, M.M."
+                ]
+            }
+        ]
+    },
+    "ENGE600007": {
+        "Nama": "Fisika Listrik, MGO (3 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Fisika Listrik-01",
+                "Jadwal": [
+                    "Selasa, 10.00-12.30"
+                ],
+                "Ruang": "K.106",
+                "Dosen": [
+                    "Ir. Purnomo Sidi Priambodo M.Sc., Ph.D."
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Listrik-02",
+                "Jadwal": [
+                    "Selasa, 10.00-12.30"
+                ],
+                "Ruang": "S.101",
+                "Dosen": [
+                    "Tri Surawan, M.Si."
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Listrik-03",
+                "Jadwal": [
+                    "Selasa, 16.00-18.30"
+                ],
+                "Ruang": "K.106",
+                "Dosen": [
+                    "Dr. Asep Juarna"
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Listrik-04",
+                "Jadwal": [
+                    "Senin, 10.00-12.30"
+                ],
+                "Ruang": "S.502",
+                "Dosen": [
+                    "Dr. Laode Mohammad Rasdi Rere"
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Listrik-05",
+                "Jadwal": [
+                    "Senin, 10.00-12.30"
+                ],
+                "Ruang": "S.101",
+                "Dosen": [
+                    "Fauzan Hanif Jufri, M.Sc."
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Listrik-06",
+                "Jadwal": [
+                    "Senin, 10.00-12.30"
+                ],
+                "Ruang": "S.504",
+                "Dosen": [
+                    "Wiem Abdul Aziz Rachman, M.T."
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Listrik-07",
+                "Jadwal": [
+                    "Senin, 10.00-12.30"
+                ],
+                "Ruang": "K.207",
+                "Dosen": [
+                    "Dr. Widia Nursiyanto"
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Listrik-08",
+                "Jadwal": [
+                    "Rabu, 10.00-12.30"
+                ],
+                "Ruang": "S.102",
+                "Dosen": [
+                    "Muh. Asnoer Laagu, M.T."
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Listrik-09",
+                "Jadwal": [
+                    "Rabu, 10.00-12.30"
+                ],
+                "Ruang": "S.304",
+                "Dosen": [
+                    "Nusriyati Mahmudah Nashuha, M.T."
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Listrik-10",
+                "Jadwal": [
+                    "Rabu, 10.00-12.30"
+                ],
+                "Ruang": "S.203",
+                "Dosen": [
+                    "Aji Nur Widyanto S.T., M.T."
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Listrik-11",
+                "Jadwal": [
+                    "Selasa, 16.00-18.30"
+                ],
+                "Ruang": "EC.303",
+                "Dosen": [
+                    "Hendri Saputra, M.T."
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Listrik-12",
+                "Jadwal": [
+                    "Senin, 10.00-12.30"
+                ],
+                "Ruang": "S.401",
+                "Dosen": [
+                    "Ahmad Fauzi, M.Si."
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Listrik-13",
+                "Jadwal": [
+                    "Senin, 10.00-12.30"
+                ],
+                "Ruang": "S.601",
+                "Dosen": [
+                    "Dr. Lingga Hermanto"
+                ]
+            }
+        ]
+    },
+    "ENGE600005": {
+        "Nama": "Fisika Mekanika dan Panas (3 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Fisika Mekanika-01",
+                "Jadwal": [
+                    "Selasa, 10.00-12.30"
+                ],
+                "Ruang": "K.102",
+                "Dosen": [
+                    "Ir. Rahmat Saptono M.Sc.Tech., Ph.D."
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Mekanika-02",
+                "Jadwal": [
+                    "Selasa, 10.00-12.30"
+                ],
+                "Ruang": "K.210",
+                "Dosen": [
+                    "Ir. Jaka Fajar Fatriansyah Ph.D."
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Mekanika-03",
+                "Jadwal": [
+                    "Kamis, 16.00-18.30"
+                ],
+                "Ruang": "GK.306",
+                "Dosen": [
+                    "Dr. Ir. Setiadi M.Eng."
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Mekanika-04",
+                "Jadwal": [
+                    "Kamis, 16.00-18.30"
+                ],
+                "Ruang": "K.103",
+                "Dosen": [
+                    "Dr. Asep Juarna"
+                ]
+            },
+            {
+                "Nama": "Kelas Fisika Mekanika-05",
+                "Jadwal": [
+                    "Kamis, 16.00-18.30"
+                ],
+                "Ruang": "K.202",
+                "Dosen": [
+                    "Dr.rer.nat. Ponky Ivo"
+                ]
+            }
+        ]
+    },
+    "UIGE600013": {
+        "Nama": "Hindu (2 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Hindu",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "K.201",
+                "Dosen": [
+                    "Nyoman Metta Nyanakumara Natih, M.Si."
+                ]
+            }
+        ]
+    },
+    "UIGE600010": {
+        "Nama": "Islam (2 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Islam-01",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "S.103",
+                "Dosen": [
+                    "Muhammad Natsir, M.A."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-02",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "S.201",
+                "Dosen": [
+                    "Abdi Kurnia D., S.H., M.H."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-03",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "S.204",
+                "Dosen": [
+                    "Ahmad Baedowi, M.Si."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-04",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "S.301",
+                "Dosen": [
+                    "Dr. Hidayatullah, M.Ag."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-05",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "S.303",
+                "Dosen": [
+                    "Muhammad Yusuf, M.Si."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-06",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "S.401",
+                "Dosen": [
+                    "Muhamad Barqun Safe'i, M.A."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-07",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "S.403",
+                "Dosen": [
+                    "Nur Rochmat, M.Pd."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-08",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "S.404",
+                "Dosen": [
+                    "Dr. Subur Wijaya, M.Pd."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-09",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "S.501",
+                "Dosen": [
+                    "Taufiq Nur Azis, M.Pd."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-10",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "K.101",
+                "Dosen": [
+                    "Dr. Zakky Mubarak Syamrakh"
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-11",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "K.201",
+                "Dosen": [
+                    "Muhammad Nur Hayid, M.M."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-12",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "K.105",
+                "Dosen": [
+                    "Alhafiz Kurniawan, M.Hum."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-13",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "K.104",
+                "Dosen": [
+                    "Jazim Khamidi, M.A."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-14",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "S.304",
+                "Dosen": [
+                    "Imam Nafi' Junaidi, M.Hum."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-15",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "K.208",
+                "Dosen": [
+                    "Abdi Kurnia D., S.H., M.H."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-16",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "K.203",
+                "Dosen": [
+                    "Muhammad Natsir, M.A."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-17",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "S.103",
+                "Dosen": [
+                    "Ahmad, S.Sos.I., M.Ag."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-18",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "S.201",
+                "Dosen": [
+                    "Ahmad Baedowi, M.Si."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-19",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "S.204",
+                "Dosen": [
+                    "Dr. Hidayatullah, M.Ag."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-20",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "S.301",
+                "Dosen": [
+                    "Muhammad Yusuf, M.Si."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-21",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "S.303",
+                "Dosen": [
+                    "Muhamad Barqun Safe'i, M.A."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-22",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "S.401",
+                "Dosen": [
+                    "Nur Rochmat, M.Pd."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-23",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "S.403",
+                "Dosen": [
+                    "Dr. Subur Wijaya, M.Pd."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-24",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "S.404",
+                "Dosen": [
+                    "Taufiq Nur Azis, M.Pd."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-25",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "S.501",
+                "Dosen": [
+                    "Alhafiz Kurniawan, M.Hum."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-26",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "K.101",
+                "Dosen": [
+                    "Fatkhuri Wahmad, M.A."
+                ]
+            },
+            {
+                "Nama": "Kelas Islam-27",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "K.104",
+                "Dosen": [
+                    "Imam Nafi' Junaidi, M.Hum."
+                ]
+            }
+        ]
+    },
+    "UIGE610005": {
+        "Nama": "Islamic Studies (2 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Islamic Studies-01",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "K.204",
+                "Dosen": [
+                    "Achmad Solechan S.Si., M.Si."
+                ]
+            },
+            {
+                "Nama": "Kelas Islamic Studies-02",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "K.204",
+                "Dosen": [
+                    "Eneng Ervi Siti Zahroh Zidni, M.Si."
+                ]
+            }
+        ]
+    },
+    "ENGE600003": {
+        "Nama": "Kalkulus (4 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Kalkulus-01",
+                "Jadwal": [
+                    "Senin, 08.00-09.40",
+                    "Rabu, 08.00-09.40"
+                ],
+                "Ruang": "K.209K.209",
+                "Dosen": [
+                    "Dr. Ir. Setiadi M.Eng."
+                ]
+            },
+            {
+                "Nama": "Kelas Kalkulus-02",
+                "Jadwal": [
+                    "Senin, 08.00-09.40",
+                    "Rabu, 08.00-09.40"
+                ],
+                "Ruang": "GK.302GK.302",
+                "Dosen": [
+                    "Ir. Abdul Wahid M.T., Ph.D."
+                ]
+            },
+            {
+                "Nama": "Kelas Kalkulus-03",
+                "Jadwal": [
+                    "Senin, 08.00-09.40",
+                    "Rabu, 08.00-09.40"
+                ],
+                "Ruang": "K.106K.106",
+                "Dosen": [
+                    "Prof. Dr. Ir. Nelson Saksono M.T."
+                ]
+            },
+            {
+                "Nama": "Kelas Kalkulus-04",
+                "Jadwal": [
+                    "Senin, 08.00-09.40",
+                    "Rabu, 08.00-09.40"
+                ],
+                "Ruang": "K.103K.103",
+                "Dosen": [
+                    "M Iqbal Abdi Tanjung, M.T."
+                ]
+            },
+            {
+                "Nama": "Kelas Kalkulus-05",
+                "Jadwal": [
+                    "Senin, 08.00-09.40",
+                    "Rabu, 08.00-09.40"
+                ],
+                "Ruang": "S.101S.101",
+                "Dosen": [
+                    "Riezqa Andika S.T., Ph.D."
+                ]
+            },
+            {
+                "Nama": "Kelas Kalkulus-06",
+                "Jadwal": [
+                    "Senin, 08.00-09.40",
+                    "Rabu, 08.00-09.40"
+                ],
+                "Ruang": "S.504-S.504",
+                "Dosen": [
+                    "Reviana Revitasari, M.T."
+                ]
+            },
+            {
+                "Nama": "Kelas Kalkulus-07",
+                "Jadwal": [
+                    "Senin, 08.00-09.40",
+                    "Rabu, 08.00-09.40"
+                ],
+                "Ruang": "EC.303EC.303",
+                "Dosen": [
+                    "Achmad Fahrurozi, M.Si."
+                ]
+            }
+        ]
+    },
+    "UIGE600015": {
+        "Nama": "Kong Hu Cu (2 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Kong Hu Cu",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "A.602",
+                "Dosen": [
+                    "Mulyadi, M.Ag."
+                ]
+            }
+        ]
+    },
+    "UIGE600011": {
+        "Nama": "Kristen Katolik (2 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Kristen Katolik-01",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "S.606",
+                "Dosen": [
+                    "Simon Sugito, M.I.Kom."
+                ]
+            },
+            {
+                "Nama": "Kelas Kristen Katolik-02",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "S.606",
+                "Dosen": [
+                    "Simon Sugito, M.I.Kom."
+                ]
+            }
+        ]
+    },
+    "UIGE600012": {
+        "Nama": "Kristen Protestan (2 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Kristen Protestan-01",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "EC.303",
+                "Dosen": [
+                    "Dr. Maria Josephine Mantik, S.S., M.Hum."
+                ]
+            },
+            {
+                "Nama": "Kelas Kristen Protestan-02",
+                "Jadwal": [
+                    "Rabu, 13.00-14.40"
+                ],
+                "Ruang": "K.208",
+                "Dosen": [
+                    "Fransiska Margareth Bertuah Hutabarat, M.Th."
+                ]
+            },
+            {
+                "Nama": "Kelas Kristen Protestan-03",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "K.206",
+                "Dosen": [
+                    "Robert Porhas Tobing, M.B.A."
+                ]
+            },
+            {
+                "Nama": "Kelas Kristen Protestan-04",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "K.210",
+                "Dosen": [
+                    "Johanis Putratama Kamuri, M.Th."
+                ]
+            }
+        ]
+    },
+    "UIGE600003": {
+        "Nama": "MPK Bahasa Inggris (2 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Bahasa Inggris-B",
+                "Jadwal": [
+                    "Selasa, 16.00-18.30"
+                ],
+                "Ruang": "",
+                "Dosen": [
+                    "Sisilana Diah Mariastuti Poyk, M.A."
+                ]
+            },
+            {
+                "Nama": "Kelas Bahasa Inggris-PARS",
+                "Jadwal": [],
+                "Ruang": "",
+                "Dosen": ""
+            },
+            {
+                "Nama": "Kelas Bahasa Inggris-PTE",
+                "Jadwal": [],
+                "Ruang": "",
+                "Dosen": ""
+            },
+            {
+                "Nama": "Kelas Bahasa Inggris-PTI",
+                "Jadwal": [],
+                "Ruang": "",
+                "Dosen": ""
+            },
+            {
+                "Nama": "Kelas Bahasa Inggris-PTK",
+                "Jadwal": [],
+                "Ruang": "",
+                "Dosen": ""
+            },
+            {
+                "Nama": "Kelas Bahasa Inggris-PTL",
+                "Jadwal": [],
+                "Ruang": "",
+                "Dosen": ""
+            },
+            {
+                "Nama": "Kelas Bahasa Inggris-PTM",
+                "Jadwal": [],
+                "Ruang": "",
+                "Dosen": ""
+            },
+            {
+                "Nama": "Kelas Bahasa Inggris-PTMT",
+                "Jadwal": [],
+                "Ruang": "",
+                "Dosen": ""
+            },
+            {
+                "Nama": "Kelas Bahasa Inggris-PTS",
+                "Jadwal": [],
+                "Ruang": "",
+                "Dosen": ""
+            }
+        ]
+    },
+    "UIGE600002": {
+        "Nama": "MPKT B (6 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas MPKT B",
+                "Jadwal": [
+                    "Senin, 16.00-18.30",
+                    "Rabu, 16.00-18.30"
+                ],
+                "Ruang": "EC.101EC.101",
+                "Dosen": ""
+            }
+        ]
+    },
+    "ENGE600008": {
+        "Nama": "Praktikum Fisika Listrik, MGO (1 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Prak. Fis Lis - 1A",
+                "Jadwal": [
+                    "Senin, 08.00-12.00"
+                ],
+                "Ruang": "Lab FMIPA06",
+                "Dosen": ""
+            },
+            {
+                "Nama": "137.",
+                "Jadwal": [],
+                "Ruang": "Senin, 13.00-17.00",
+                "Dosen": [
+                    "Lab FMIPA06"
+                ]
+            },
+            {
+                "Nama": "138.",
+                "Jadwal": [],
+                "Ruang": "Selasa, 08.00-12.00",
+                "Dosen": [
+                    "Lab FMIPA06"
+                ]
+            },
+            {
+                "Nama": "139.",
+                "Jadwal": [],
+                "Ruang": "Selasa, 13.00-17.00",
+                "Dosen": [
+                    "Lab FMIPA01"
+                ]
+            },
+            {
+                "Nama": "140.",
+                "Jadwal": [],
+                "Ruang": "Rabu, 08.00-12.00",
+                "Dosen": [
+                    "Lab FMIPA01"
+                ]
+            },
+            {
+                "Nama": "141.",
+                "Jadwal": [],
+                "Ruang": "Rabu, 13.00-17.00",
+                "Dosen": [
+                    "Lab FMIPA06"
+                ]
+            },
+            {
+                "Nama": "142.",
+                "Jadwal": [],
+                "Ruang": "Kamis, 08.00-12.00",
+                "Dosen": [
+                    "Lab FMIPA06"
+                ]
+            },
+            {
+                "Nama": "143.",
+                "Jadwal": [],
+                "Ruang": "Kamis, 13.00-17.00",
+                "Dosen": [
+                    "Lab FMIPA06"
+                ]
+            },
+            {
+                "Nama": "144.",
+                "Jadwal": [],
+                "Ruang": "Jumat, 08.00-12.00",
+                "Dosen": [
+                    "Lab FMIPA09"
+                ]
+            },
+            {
+                "Nama": "145.",
+                "Jadwal": [],
+                "Ruang": "Jumat, 13.00-17.00",
+                "Dosen": [
+                    "Lab FMIPA01"
+                ]
+            }
+        ]
+    },
+    "ENGE600006": {
+        "Nama": "Praktikum Fisika Mekanika dan Panas (1 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Prak. Fis Mek - 1A",
+                "Jadwal": [
+                    "Senin, 08.00-12.00"
+                ],
+                "Ruang": "Lab FMIPA04",
+                "Dosen": ""
+            },
+            {
+                "Nama": "147.",
+                "Jadwal": [],
+                "Ruang": "Senin, 13.00-17.00",
+                "Dosen": [
+                    "Lab FMIPA"
+                ]
+            },
+            {
+                "Nama": "148.",
+                "Jadwal": [],
+                "Ruang": "Selasa, 08.00-12.00",
+                "Dosen": [
+                    "Lab FMIPA"
+                ]
+            },
+            {
+                "Nama": "149.",
+                "Jadwal": [],
+                "Ruang": "Selasa, 13.00-17.00",
+                "Dosen": [
+                    "Lab FMIPA"
+                ]
+            },
+            {
+                "Nama": "150.",
+                "Jadwal": [],
+                "Ruang": "Kamis, 08.00-12.00",
+                "Dosen": [
+                    "Lab FMIPA"
+                ]
+            },
+            {
+                "Nama": "151.",
+                "Jadwal": [],
+                "Ruang": "Kamis, 13.00-17.00",
+                "Dosen": [
+                    "Lab FMIPA"
+                ]
+            },
+            {
+                "Nama": "152.",
+                "Jadwal": [],
+                "Ruang": "Jumat, 08.00-12.00",
+                "Dosen": [
+                    "Lab FMIPA10"
+                ]
+            },
+            {
+                "Nama": "153.",
+                "Jadwal": [],
+                "Ruang": "Jumat, 13.00-17.00",
+                "Dosen": [
+                    "Lab FMIPA04"
+                ]
+            },
+            {
+                "Nama": "Nama Kelas",
+                "Jadwal": [],
+                "Ruang": "Ruang",
+                "Dosen": [
+                    "Pengajar"
+                ]
+            }
+        ]
+    },
+    "UIGE600004": {
+        "Nama": "MPK Agama (2 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Buddha",
+                "Jadwal": [
+                    "Jumat, 11.00-12.40"
+                ],
+                "Ruang": "C 304",
+                "Dosen": [
+                    "Soelijono, M.M."
+                ]
+            },
+            {
+                "Nama": "Kelas MPK Katolik",
+                "Jadwal": [
+                    "Kamis, 11.00-12.40"
+                ],
+                "Ruang": "2019 - C 105",
+                "Dosen": [
+                    "Simon Sugito, M.I.Kom."
+                ]
+            },
+            {
+                "Nama": "Kelas MPK Protestan",
+                "Jadwal": [
+                    "Kamis, 11.00-12.40"
+                ],
+                "Ruang": "2019 - C 106",
+                "Dosen": [
+                    "Yoel Betakore, M.Pd.K."
+                ]
+            }
+        ]
+    },
+    "ENEE604023": {
+        "Nama": "Algoritma dan Pemrograman (3 SKS, Term 4)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Algo dan Pemrog-02",
+                "Jadwal": [
+                    "Senin, 16.00-18.30"
+                ],
+                "Ruang": "Lab.Puskom.201",
+                "Dosen": [
+                    "Dr. Ruki Harwahyu S.T., M.T., M.Sc."
+                ]
+            }
+        ]
+    },
+    "CSCM603117": {
+        "Nama": "Analisis Numerik (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Numerical Analysis",
+                "Jadwal": [
+                    "Jumat, 13.00-15.30"
+                ],
+                "Ruang": "A7.14 (Ged Baru)",
+                "Dosen": [
+                    "Prof. Drs. T. Basaruddin M.Sc., Ph.D."
+                ]
+            }
+        ]
+    },
+    "PHL1602152": {
+        "Nama": "Analisis Risiko Kesehatan Lingkungan (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas PHL1602152",
+                "Jadwal": [
+                    "Selasa, 07.00-09.55"
+                ],
+                "Ruang": "G405",
+                "Dosen": [
+                    "Abdur Rahman, M.Env.",
+                    "Dr. Budi Hartono S.Si., M.K.M."
+                ]
+            }
+        ]
+    },
+    "SPAS602507": {
+        "Nama": "Antropologi Ekologi (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Antropologi Ekologi",
+                "Jadwal": [
+                    "Senin, 11.00-13.30"
+                ],
+                "Ruang": "E.202.R.Salah",
+                "Dosen": [
+                    "Rhino Ariefiansyah S.Sos., M.E.A.P.",
+                    "Bimo Dwi Satrio, MEMD."
+                ]
+            }
+        ]
+    },
+    "SPAS602508": {
+        "Nama": "Antropologi Kesenian (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Ankes Kelas A",
+                "Jadwal": [
+                    "Kamis, 11.00-13.30"
+                ],
+                "Ruang": "E.201",
+                "Dosen": [
+                    "Dr. Dra. Sri Murni M.Kes.",
+                    "Salfia Rahmawati M.A.",
+                    "Dr. Dave Lumenta"
+                ]
+            }
+        ]
+    },
+    "SPAS601518": {
+        "Nama": "Antropologi Psikologi (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Antropologi Psikolog",
+                "Jadwal": [
+                    "Senin, 11.00-13.30"
+                ],
+                "Ruang": "H.204",
+                "Dosen": [
+                    "Salfia Rahmawati M.A.",
+                    "Dr. Dra. Sri Murni M.Kes."
+                ]
+            }
+        ]
+    },
+    "HMAR600034": {
+        "Nama": "Arkeologi Publik (3 SKS, Term 7)",
+        "Kelas": [
+            {
+                "Nama": "Kelas out",
+                "Jadwal": [
+                    "Selasa, 13.00-13.50",
+                    "Selasa, 14.00-14.50",
+                    "Selasa, 15.00-15.50"
+                ],
+                "Ruang": "4.43084.43084.4308",
+                "Dosen": [
+                    "Dr. Agi Ginanjar S.S., M.Si.",
+                    "Dr. Kresno Yulianto Soekardi S.S., M.Hum."
+                ]
+            }
+        ]
+    },
+    "LWAN600010": {
+        "Nama": "Asas-Asas Hukum Administrasi Negara (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler A",
+                "Jadwal": [
+                    "Jumat, 08.00-10.30"
+                ],
+                "Ruang": "2019 - D 305",
+                "Dosen": [
+                    "Dr. Harsanto Nursadi S.H., M.Si",
+                    "Prof. Muhamad Ramdan Andri Gunawan Wibisana S.H., LL.M., Ph.D.",
+                    "Savitri Nur Setyorini S.H., M.H.",
+                    "Henry Darmawan Hutagaol S.H., LL.M.",
+                    "Prof. Dr. Anna Erliyana S.H., M.H.",
+                    "Dr. Daly Erni S.H., LL.M.",
+                    "Dr. Tri Hayati S.H., M.H."
+                ]
+            },
+            {
+                "Nama": "Kelas Elektif Khusus MhsS1",
+                "Jadwal": [
+                    "Senin, 13.00-14.40"
+                ],
+                "Ruang": "301 B",
+                "Dosen": [
+                    "Tuti Herawati S.Kp., M.N.",
+                    "Dr. Sigit Mulyono S.Kp., M.N.",
+                    "Prima Agustia Nova S.Kep., Ns., M.Sc.",
+                    "Ns. Robiyatul Adawiyah, S.Kep."
+                ]
+            }
+        ]
+    },
+    "ENME803124": {
+        "Nama": "Audit Energi (4 SKS, Term 7)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Audit Energi",
+                "Jadwal": [
+                    "Senin, 16.00-17.40",
+                    "Jumat, 16.00-17.40"
+                ],
+                "Ruang": "S.603S.603",
+                "Dosen": [
+                    "Prof. Dr.-Ing. Ir. Nasruddin M.Eng.",
+                    "Prof. Dr. Ir. Muhammad Idrus Alhamid"
+                ]
+            }
+        ]
+    },
+    "HMJA600003": {
+        "Nama": "Bahasa Bali Dasar (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas in out",
+                "Jadwal": [
+                    "Jumat, 14.00-14.50",
+                    "Jumat, 15.00-15.50",
+                    "Jumat, 16.00-16.50"
+                ],
+                "Ruang": "4.42094.42094.4209",
+                "Dosen": [
+                    "Dr. Drs. I Made Suparta M.Hum."
+                ]
+            }
+        ]
+    },
+    "HMAB600003": {
+        "Nama": "Bahasa Ibrani Dasar (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas out",
+                "Jadwal": [
+                    "Senin, 14.00-14.50",
+                    "Senin, 15.00-15.50",
+                    "Senin, 16.00-16.50"
+                ],
+                "Ruang": "9.93089.93089.9308",
+                "Dosen": [
+                    "Wiwin Triwinarti M.A."
+                ]
+            }
+        ]
+    },
+    "HMFR630003": {
+        "Nama": "Bahasa Italia Dasar A (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas A out(Antonietta )",
+                "Jadwal": [
+                    "Senin, 11.00-11.50",
+                    "Senin, 12.00-12.50",
+                    "Senin, 13.00-13.50"
+                ],
+                "Ruang": "4.43094.43094.4309",
+                "Dosen": ""
+            },
+            {
+                "Nama": "170.",
+                "Jadwal": [],
+                "Ruang": "Senin, 15.00-15.50Senin, 16.00-16.50Senin, 17.00-17.50",
+                "Dosen": [
+                    "4.43034.43034.4303"
+                ]
+            },
+            {
+                "Nama": "171.",
+                "Jadwal": [],
+                "Ruang": "Rabu, 11.00-11.50Rabu, 12.00-12.50Rabu, 13.00-13.50",
+                "Dosen": [
+                    "4.43074.43074.4307"
+                ]
+            },
+            {
+                "Nama": "172.",
+                "Jadwal": [],
+                "Ruang": "Rabu, 15.00-15.50Rabu, 16.00-16.50Rabu, 17.00-17.50",
+                "Dosen": [
+                    "4.43074.43074.4307"
+                ]
+            }
+        ]
+    },
+    "HMFR630004": {
+        "Nama": "Bahasa Italia Dasar B (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Lulus Italia Dasar A",
+                "Jadwal": [
+                    "Kamis, 14.00-14.50",
+                    "Kamis, 15.00-15.50",
+                    "Kamis, 16.00-16.50"
+                ],
+                "Ruang": "4.42014.42014.4201",
+                "Dosen": ""
+            }
+        ]
+    },
+    "HMJA600001": {
+        "Nama": "Bahasa Jawa Dasar (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas A out",
+                "Jadwal": [
+                    "Selasa, 14.00-14.50",
+                    "Selasa, 15.00-15.50",
+                    "Selasa, 16.00-16.50"
+                ],
+                "Ruang": "4.42034.42034.4203",
+                "Dosen": [
+                    "Dwi Woro Retno Mastuti S.S., M.Hum."
+                ]
+            },
+            {
+                "Nama": "Kelas B, Out",
+                "Jadwal": [
+                    "Selasa, 14.00-14.50",
+                    "Selasa, 15.00-15.50",
+                    "Selasa, 16.00-16.50"
+                ],
+                "Ruang": "4.41074.41074.4107",
+                "Dosen": [
+                    "Murni Widyastuti S.S., M.Hum."
+                ]
+            }
+        ]
+    },
+    "HMAB600039": {
+        "Nama": "Bahasa Persia Dasar (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas A (in & out)",
+                "Jadwal": [
+                    "Selasa, 14.00-14.50",
+                    "Selasa, 15.00-15.50",
+                    "Selasa, 16.00-16.50"
+                ],
+                "Ruang": "6.62146.62146.6214",
+                "Dosen": [
+                    "Bastian Zulyeno M.A., Ph.D."
+                ]
+            },
+            {
+                "Nama": "Kelas B (in & out)",
+                "Jadwal": [
+                    "Kamis, 14.00-14.50",
+                    "Kamis, 15.00-15.50",
+                    "Kamis, 16.00-16.50"
+                ],
+                "Ruang": "4.42064.42064.4206",
+                "Dosen": [
+                    "Bastian Zulyeno M.A., Ph.D."
+                ]
+            }
+        ]
+    },
+    "HMRU600033": {
+        "Nama": "Bahasa Polandia Dasar (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas A out (Malgorzata)",
+                "Jadwal": [
+                    "Selasa, 15.00-15.50",
+                    "Selasa, 16.00-16.50",
+                    "Selasa, 17.00-17.50"
+                ],
+                "Ruang": "4.43014.43014.4301",
+                "Dosen": ""
+            },
+            {
+                "Nama": "179.",
+                "Jadwal": [],
+                "Ruang": "Kamis, 15.00-15.50Kamis, 16.00-16.50Kamis, 17.00-17.50",
+                "Dosen": [
+                    "4.43014.43014.4301"
+                ]
+            }
+        ]
+    },
+    "HMFR630012": {
+        "Nama": "Bahasa Portugis Dasar A (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas B in,out (Felipe)",
+                "Jadwal": [
+                    "Selasa, 11.00-11.50",
+                    "Selasa, 12.00-12.50",
+                    "Selasa, 13.00-13.50"
+                ],
+                "Ruang": "10.1030110.1030110.10301",
+                "Dosen": ""
+            }
+        ]
+    },
+    "HMFR630013": {
+        "Nama": "Bahasa Portugis Dasar B (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Lulus Portugis A",
+                "Jadwal": [
+                    "Selasa, 15.00-15.50",
+                    "Selasa, 16.00-16.50",
+                    "Selasa, 17.00-17.50"
+                ],
+                "Ruang": "6.61026.61026.6102",
+                "Dosen": ""
+            }
+        ]
+    },
+    "HMRU600001": {
+        "Nama": "Bahasa Rusia Dasar (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas out",
+                "Jadwal": [
+                    "Rabu, 13.00-13.50",
+                    "Rabu, 14.00-14.50",
+                    "Rabu, 15.00-15.50"
+                ],
+                "Ruang": "6.62086.62086.6208",
+                "Dosen": [
+                    "Nia Kurnia Sofiah S.S., M.App.Ling."
+                ]
+            }
+        ]
+    },
+    "HMFR630009": {
+        "Nama": "Bahasa Spanyol Dasar A (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas in-out",
+                "Jadwal": [
+                    "Selasa, 14.00-14.50",
+                    "Selasa, 15.00-15.50",
+                    "Selasa, 16.00-16.50"
+                ],
+                "Ruang": "4.42064.42064.4206",
+                "Dosen": [
+                    "Dr. Danny Susanto M.A."
+                ]
+            }
+        ]
+    },
+    "PSPS609001": {
+        "Nama": "Bimbingan Pendidikan (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas SEM 3(P): Bidik (1)",
+                "Jadwal": [
+                    "Selasa, 16.00-18.30"
+                ],
+                "Ruang": "B. 108",
+                "Dosen": [
+                    "Gagan Hartana Tupah Brama, M.Psi.",
+                    "Dr. Tjut Rifameutia Umar Ali M.A."
+                ]
+            },
+            {
+                "Nama": "Kelas SEM 3(P): Bidik (2)",
+                "Jadwal": [
+                    "Kamis, 16.00-18.30"
+                ],
+                "Ruang": "H. 307",
+                "Dosen": [
+                    "Dr. Rose Mini Agoes Salim M.Psi.",
+                    "Miranda Diponegoro Zarfiel, M.Psi."
+                ]
+            },
+            {
+                "Nama": "Kelas SEM 3(P): Bidik (3)",
+                "Jadwal": [
+                    "Kamis, 16.00-18.30"
+                ],
+                "Ruang": "C. 212",
+                "Dosen": [
+                    "Dien Nurdini Nurdin M.Psi., Psikolog."
+                ]
+            }
+        ]
+    },
+    "SCBI603225": {
+        "Nama": "Biologi Laut (3 SKS, Term 7)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Biologi Laut (B)",
+                "Jadwal": [
+                    "Selasa, 08.00-10.30"
+                ],
+                "Ruang": "Bio Seminar Lt 3",
+                "Dosen": [
+                    "Dr. Dra. Noverita Dian Takarina M.Sc.",
+                    "Dr. rer. nat. Mufti Petala Patria M.Sc.",
+                    "Riani Widiarti S.Si., M.Si."
+                ]
+            }
+        ]
+    },
+    "PHL1601112": {
+        "Nama": "Dasar Kesehatan Lingkungan (2 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas PHL1601112",
+                "Jadwal": [
+                    "Kamis, 08.00-09.40"
+                ],
+                "Ruang": "G202",
+                "Dosen": [
+                    "Prof. Dr. R. Budi Haryanto S.K.M., M.Kes., M.Sc."
+                ]
+            }
+        ]
+    },
+    "PHF0600111": {
+        "Nama": "Dasar Kesehatan Masyarakat (3 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas PHF0600111A",
+                "Jadwal": [
+                    "Senin, 10.00-12.30"
+                ],
+                "Ruang": "G102",
+                "Dosen": [
+                    "Prof. Dr. dr. Rachmadhi Purwana S.K.M."
+                ]
+            },
+            {
+                "Nama": "Kelas PHF0600111B",
+                "Jadwal": [
+                    "Senin, 10.00-12.30"
+                ],
+                "Ruang": "G103",
+                "Dosen": [
+                    "Prof. Dr. dr. Kusharisupeni Djokosujono M.Sc.",
+                    "Wahyu Kurnia Yusrin Putra S.K.M., M.K.M."
+                ]
+            },
+            {
+                "Nama": "Kelas PHF0600111C",
+                "Jadwal": [
+                    "Senin, 10.00-12.30"
+                ],
+                "Ruang": "G104",
+                "Dosen": [
+                    "Sifa Fauzia, M.K.M.",
+                    "Prof. Dr. dr. Sudarto Ronoatmodjo S.K.M., M.Sc."
+                ]
+            },
+            {
+                "Nama": "Kelas PHF0600111D",
+                "Jadwal": [
+                    "Senin, 10.00-12.30"
+                ],
+                "Ruang": "G403",
+                "Dosen": [
+                    "Drs. Bambang Wispriyono Apt., Ph.D."
+                ]
+            },
+            {
+                "Nama": "Kelas PHF0600111E",
+                "Jadwal": [
+                    "Senin, 10.00-12.30"
+                ],
+                "Ruang": "G202",
+                "Dosen": [
+                    "Prof. Dr.PH. dr. Hadi Pratomo, M.P.H.",
+                    "Dien Anshari S.Sos., M.Si., Ph.D."
+                ]
+            },
+            {
+                "Nama": "Kelas PHF0600111G",
+                "Jadwal": [
+                    "Senin, 10.00-12.30"
+                ],
+                "Ruang": "G304",
+                "Dosen": [
+                    "dr. Anhari Achadi, S.K.M., Sc.D."
+                ]
+            }
+        ]
+    },
+    "CSIE604181": {
+        "Nama": "Dasar-Dasar Audit SI (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Dasar-Dasar Audit SI",
+                "Jadwal": [
+                    "Jumat, 08.00-10.30"
+                ],
+                "Ruang": "2.2303",
+                "Dosen": [
+                    "Prof. Yudho Giri Sucahyo M.Kom., Ph.D.",
+                    "Lintang Matahari Hasani, S.Kom., M.Kom."
+                ]
+            }
+        ]
+    },
+    "SPKS600034": {
+        "Nama": "Dimensi Sosial Ekonomi bagi Kes. Sosial (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Dimensi Sosial Eko A",
+                "Jadwal": [
+                    "Rabu, 08.00-10.30"
+                ],
+                "Ruang": "H.504",
+                "Dosen": [
+                    "Prof. Dr. Bambang Shergi Laksmono M.Sc.",
+                    "Budhi Dharma, M.P.P."
+                ]
+            },
+            {
+                "Nama": "Kelas Dimensi Sosial Eko B",
+                "Jadwal": [
+                    "Rabu, 14.00-15.30"
+                ],
+                "Ruang": "H.502",
+                "Dosen": [
+                    "Prof. Dr. Bambang Shergi Laksmono M.Sc.",
+                    "Budhi Dharma, M.P.P."
+                ]
+            }
+        ]
+    },
+    "SCBI603910": {
+        "Nama": "Ekologi Kimiawi dan Fungsional (3 SKS, Term 6)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Ekologi Kimiawi dan",
+                "Jadwal": [
+                    "Jumat, 13.00-16.00"
+                ],
+                "Ruang": "BIO Seminar Lt 2",
+                "Dosen": [
+                    "Dr. rer. nat. Yasman S.Si., M.Sc."
+                ]
+            }
+        ]
+    },
+    "PHL1602155": {
+        "Nama": "Ekonomi Kesehatan Lingkungan (2 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas PHL1602155",
+                "Jadwal": [
+                    "Kamis, 08.00-09.40"
+                ],
+                "Ruang": "G404",
+                "Dosen": [
+                    "Dr. Laila Fitria S.K.M., M.K.M.",
+                    "Prof. Dr. drg. Mardiati Nadjib M.S.",
+                    "Dr. Zakianis S.K.M., M.K.M"
+                ]
+            }
+        ]
+    },
+    "SPIK600093": {
+        "Nama": "Etika, Kebijakan dan Regulasi Media (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Kamed 2019",
+                "Jadwal": [
+                    "Selasa, 08.00-10.30"
+                ],
+                "Ruang": "N2.306",
+                "Dosen": [
+                    "Dr. Nina Mutmainnah M.Si."
+                ]
+            }
+        ]
+    },
+    "SPAS601519": {
+        "Nama": "Etnografi Indonesia (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Etnografi Indonesia",
+                "Jadwal": [
+                    "Rabu, 08.00-10.30"
+                ],
+                "Ruang": "H.305",
+                "Dosen": [
+                    "Dr. Dave Lumenta",
+                    "Dr. Dra. Sri Murni M.Kes."
+                ]
+            }
+        ]
+    },
+    "SPAS601307": {
+        "Nama": "Evolusi Manusia (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Evolusi Manusia",
+                "Jadwal": [
+                    "Senin, 11.00-13.30"
+                ],
+                "Ruang": "B.101",
+                "Dosen": [
+                    "Dr. Prihandoko Sanjatmiko M.Si.",
+                    "Iman Fachruliansyah S.Sos., M.Si."
+                ]
+            }
+        ]
+    },
+    "HMJA600039": {
+        "Nama": "Filsafat Jawa (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas in out",
+                "Jadwal": [
+                    "Senin, 11.00-11.50",
+                    "Senin, 12.00-12.50",
+                    "Senin, 13.00-13.50"
+                ],
+                "Ruang": "4.42054.42054.4205",
+                "Dosen": [
+                    "Dr. Turita Indah Setyani S.S., M.Hum.",
+                    "Dr. Sri Suryati Soetarjo"
+                ]
+            }
+        ]
+    },
+    "HMPH600029": {
+        "Nama": "Filsafat Seni (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas in,out",
+                "Jadwal": [
+                    "Selasa, 14.00-14.50",
+                    "Selasa, 15.00-15.50",
+                    "Selasa, 16.00-16.50"
+                ],
+                "Ruang": "4.43094.43094.4309",
+                "Dosen": [
+                    "Ikhaputri Widiantini S.Hum., M.Si."
+                ]
+            }
+        ]
+    },
+    "SPSS600035": {
+        "Nama": "Gender dan Struktur Sosial (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Gender dan Struktur",
+                "Jadwal": [
+                    "Selasa, 11.00-13.30"
+                ],
+                "Ruang": "H.103",
+                "Dosen": [
+                    "Dr. Ida Ruwaida S.Sos., M.Si.",
+                    "Dr. phil. Diana Teresa Pakasi S.Sos., M.Si."
+                ]
+            }
+        ]
+    },
+    "LWET600012": {
+        "Nama": "Hak Kekayaan Intelektual (2 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler A",
+                "Jadwal": [
+                    "Rabu, 08.00-09.40"
+                ],
+                "Ruang": "Balai Sidang",
+                "Dosen": [
+                    "Parulian Paidi Aritonang S.H., LL.M.",
+                    "Prof. Dr. Agus Sardjono S.H., M.H.",
+                    "Dr. Henny Marlyna S.H., M.H., M.L.I.",
+                    "Ranggalawe Suryasaladin S.H., M.H., LL.M.",
+                    "Dr. Edmon Makarim S.Kom., S.H., LL.M",
+                    "Angga Priancha S.H., LL.M."
+                ]
+            }
+        ]
+    },
+    "LWET610012": {
+        "Nama": "Hak Kekayaan Intelektual (2 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Single Degree Prog.",
+                "Jadwal": [
+                    "Rabu, 11.00-12.40"
+                ],
+                "Ruang": "Bidang Studi Hukum Keperdataan",
+                "Dosen": [
+                    "Dr. Henny Marlyna S.H., M.H., M.L.I.",
+                    "Ranggalawe Suryasaladin S.H., M.H., LL.M.",
+                    "Dr. Edmon Makarim S.Kom., S.H., LL.M",
+                    "Parulian Paidi Aritonang S.H., LL.M.",
+                    "Angga Priancha S.H., LL.M.",
+                    "Dr. Brian Amy Prastyo S.H., M.L.I."
+                ]
+            }
+        ]
+    },
+    "SPIP600025": {
+        "Nama": "HAM dan Perubahan Politik (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas HAM & Perubahan Pol",
+                "Jadwal": [
+                    "Kamis, 08.00-10.30"
+                ],
+                "Ruang": "H.304",
+                "Dosen": [
+                    "Prof. Dr. Valina Singka M.Si.",
+                    "Dr. Nur Iman Subono M.Hum."
+                ]
+            }
+        ]
+    },
+    "PSPS609002": {
+        "Nama": "Hubungan Interpersonal (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas SEM 3(P): HI (LF)",
+                "Jadwal": [
+                    "Rabu, 15.00-17.30"
+                ],
+                "Ruang": "C. 307",
+                "Dosen": [
+                    "Dian Wisnuwardhani S.Psi., M.Psi."
+                ]
+            }
+        ]
+    },
+    "LWAC600023": {
+        "Nama": "Hukum Acara Mahkamah Konstitusi (2 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler D",
+                "Jadwal": [
+                    "Selasa, 08.00-09.40"
+                ],
+                "Ruang": "2019 - C 405",
+                "Dosen": [
+                    "Dr. Fitra Arsil S.H., M.H.",
+                    "Nur Widyastanti S.H., M.H.",
+                    "Dr. Jimly Asshiddiqie",
+                    "Yunani Abiyoso S.H., M.H.",
+                    "Ryan Muthiara Wasti M.H."
+                ]
+            }
+        ]
+    },
+    "LWAC601304": {
+        "Nama": "Hukum Acara Peradilan Agama (2 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler",
+                "Jadwal": [
+                    "Rabu, 08.00-09.40"
+                ],
+                "Ruang": "2019 - Moot Court",
+                "Dosen": [
+                    "Dr. Wirdyaningsih S.H., M.H.",
+                    "Abdul Karim Munthe, M.H."
+                ]
+            }
+        ]
+    },
+    "LWAC600028": {
+        "Nama": "Hukum Acara Peradilan Tata Usaha Negara (2 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler A",
+                "Jadwal": [
+                    "Senin, 10.00-11.40"
+                ],
+                "Ruang": "2019 - Auditorium",
+                "Dosen": [
+                    "Dr. Sri Laksmi Anindita S.H., M.H.",
+                    "Wahyu Andrianto S.H., M.H.",
+                    "Prof. Dr. Anna Erliyana S.H., M.H."
+                ]
+            }
+        ]
+    },
+    "LWPE600029": {
+        "Nama": "Hukum Antar Tata Hukum (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Single Degree Prog.",
+                "Jadwal": [
+                    "Kamis, 08.00-10.30"
+                ],
+                "Ruang": "2019 - C 306",
+                "Dosen": [
+                    "Yu Un Oppusunggu S.H., LL.M., Ph.D."
+                ]
+            }
+        ]
+    },
+    "LWGB600032": {
+        "Nama": "Hukum dan HAM (2 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Single Degree Prog.",
+                "Jadwal": [
+                    "Senin, 13.00-14.40"
+                ],
+                "Ruang": "2019 - E 205",
+                "Dosen": [
+                    "Fachry Bey, S.H., M.M.",
+                    "Prof. Hikmahanto Juwana S.H., LL.M., Ph.D",
+                    "Dr. Mutiara Hikmah S.H., M.H.",
+                    "Prof. Dr. Harkristuti S.H., M.A., Ph.D.",
+                    "Prof. Dr. Satya Arinanto S.H., M.H.",
+                    "Dr. Surastini Fitriasih S.H., M.H.",
+                    "Heru Susetyo S.H., LL.M., M.Si., Ph.D.",
+                    "Dr. Patricia Rinwigati S.H., M.I.L.",
+                    "Nur Widyastanti S.H., M.H."
+                ]
+            }
+        ]
+    },
+    "LWHD610004": {
+        "Nama": "Hukum dan Masyarakat (3 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Single Degree Prog.",
+                "Jadwal": [
+                    "Selasa, 13.00-15.30"
+                ],
+                "Ruang": "2019 - F 103",
+                "Dosen": [
+                    "Tirtawening S.H., M.Si.",
+                    "Dr. Lidwina Inge Nurtjahyo S.H., M.Si.",
+                    "Dr. Ratih Lestarini S.H., M.H.",
+                    "Theresia Dyah Wirastri S.H., M.A., Ph.D.",
+                    "Kristina Pranata, S.E., Ak., M.M.",
+                    "Prof. Dr. Dra. Sulistyowati Soewarno M.A.",
+                    "Kurnia Togar Pandapotan Tanjung S.H., M.E.",
+                    "Yvonne Kezia Dhianingtyas Nafi, LL.M."
+                ]
+            }
+        ]
+    },
+    "PHL1602156": {
+        "Nama": "Hukum dan Perundang-undangan Kesehatan lin (2 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas PHL1602156",
+                "Jadwal": [
+                    "Senin, 13.00-14.40"
+                ],
+                "Ruang": "G303",
+                "Dosen": [
+                    "Heru Susetyo S.H., LL.M., M.Si., Ph.D.",
+                    "Drs. Bambang Wispriyono Apt., Ph.D.",
+                    "Andreas Pramudianto S.H., M.Si."
+                ]
+            }
+        ]
+    },
+    "LWPE600301": {
+        "Nama": "Hukum Ekonomi Islam (2 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler",
+                "Jadwal": [
+                    "Selasa, 08.00-09.40"
+                ],
+                "Ruang": "2019 - F 105 (Boedi Harsono)",
+                "Dosen": [
+                    "Farida Prihatini S.H., M.H., C.N.",
+                    "Iffah Karimah S.H., M.Sc."
+                ]
+            }
+        ]
+    },
+    "LWPE600105": {
+        "Nama": "Hukum Kebendaan Perdata (2 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler A",
+                "Jadwal": [
+                    "Senin, 11.00-12.40"
+                ],
+                "Ruang": "2019 - E 301",
+                "Dosen": [
+                    "Lauditta Humaira S.H., M.Kn.",
+                    "Dr. Akhmad Budi Cahyono S.H., M.H."
+                ]
+            }
+        ]
+    },
+    "LWIA600137": {
+        "Nama": "Hukum Kekeluargaan dan Kewarisan Islam (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler A",
+                "Jadwal": [
+                    "Selasa, 11.00-13.30"
+                ],
+                "Ruang": "C 403",
+                "Dosen": [
+                    "Iffah Karimah S.H., M.Sc.",
+                    "Dr. Yeni Salma Barlinti S.H., M.H."
+                ]
+            }
+        ]
+    },
+    "LWPE601401": {
+        "Nama": "Hukum Kesehatan (2 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler",
+                "Jadwal": [
+                    "Selasa, 11.00-12.40"
+                ],
+                "Ruang": "2019 - E 301",
+                "Dosen": [
+                    "Wahyu Andrianto S.H., M.H."
+                ]
+            }
+        ]
+    },
+    "LWIN601102": {
+        "Nama": "Hukum Laut (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler",
+                "Jadwal": [
+                    "Rabu, 11.00-13.30"
+                ],
+                "Ruang": "2019 - C 303",
+                "Dosen": [
+                    "Arie Afriansyah S.H., M.I.L., Ph.D.",
+                    "Rizky Banyualam Permana, LL.M.",
+                    "Kresno  Buntoro, Ph.D.",
+                    "Damos Dumoli Agusman, S.H., M.A., Ph.D.",
+                    "Aristyo Rizka Darmawan S.H., LL.M.",
+                    "Metha Ramadita, M.H.",
+                    "Alif Nurfakhri Muhammad, LL.M."
+                ]
+            }
+        ]
+    },
+    "LWAN600033": {
+        "Nama": "Hukum Lingkungan (3 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Single Degree Prog.",
+                "Jadwal": [
+                    "Jumat, 08.00-10.30"
+                ],
+                "Ruang": "2019 - E 202",
+                "Dosen": [
+                    "Prof. Muhamad Ramdan Andri Gunawan Wibisana S.H., LL.M., Ph.D.",
+                    "Savitri Nur Setyorini S.H., M.H.",
+                    "Dr. Mas Achmad Santosa",
+                    "Bono Budi Priambodo, S.H., M.Sc.",
+                    "Wiwiek Awiati S.H., M.H."
+                ]
+            }
+        ]
+    },
+    "LWET600147": {
+        "Nama": "Hukum Organisasi Perusahaan (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler",
+                "Jadwal": [
+                    "Rabu, 11.00-13.30"
+                ],
+                "Ruang": "E 301 New",
+                "Dosen": [
+                    "Dr. Yetty Komalasari Dewi S.H., M.L.I.",
+                    "Nadia Maulisa S.H., M.H."
+                ]
+            }
+        ]
+    },
+    "LWPE600025": {
+        "Nama": "Hukum Organisasi Perusahaan (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Single Degree Prog.",
+                "Jadwal": [
+                    "Rabu, 08.00-10.30"
+                ],
+                "Ruang": "2019 - E 203",
+                "Dosen": [
+                    "Prof. Felix O. Soebagio",
+                    "Dr. Yetty Komalasari Dewi S.H., M.L.I."
+                ]
+            }
+        ]
+    },
+    "LWPE600011": {
+        "Nama": "Hukum Perikatan (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler B",
+                "Jadwal": [
+                    "Kamis, 11.00-13.30"
+                ],
+                "Ruang": "2019 - E 301",
+                "Dosen": [
+                    "Dr. Abdul Salam S.H., M.H.",
+                    "Prof. Dr. Rosa Agustina S.H., M.H.",
+                    "Lauditta Humaira S.H., M.Kn."
+                ]
+            },
+            {
+                "Nama": "Kelas Reguler C",
+                "Jadwal": [
+                    "Kamis, 11.00-13.30"
+                ],
+                "Ruang": "D 305",
+                "Dosen": [
+                    "Prof. Dr. Rosa Agustina S.H., M.H.",
+                    "Lauditta Humaira S.H., M.Kn.",
+                    "Togi Marolop Pradana Pangaribuan S.H., LL.M."
+                ]
+            }
+        ]
+    },
+    "LWET600150": {
+        "Nama": "Hukum Surat Berharga (2 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler",
+                "Jadwal": [
+                    "Kamis, 08.00-09.40"
+                ],
+                "Ruang": "E 301 New",
+                "Dosen": [
+                    "Dr. Yetty Komalasari Dewi S.H., M.L.I.",
+                    "Nadia Maulisa S.H., M.H."
+                ]
+            }
+        ]
+    },
+    "LWPE600205": {
+        "Nama": "Hukum Surat Berharga (2 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Single Degree Prog.",
+                "Jadwal": [
+                    "Senin, 10.00-11.40"
+                ],
+                "Ruang": "2019 - C 106",
+                "Dosen": [
+                    "Prof. Felix O. Soebagio",
+                    "Dr. Yetty Komalasari Dewi S.H., M.L.I."
+                ]
+            }
+        ]
+    },
+    "LWPE601402": {
+        "Nama": "Hukum Telematika (2 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler",
+                "Jadwal": [
+                    "Jumat, 13.00-14.40"
+                ],
+                "Ruang": "2019 - Balai Sidang",
+                "Dosen": [
+                    "Dr. Abdul Salam S.H., M.H.",
+                    "Dr. Edmon Makarim S.Kom., S.H., LL.M",
+                    "Dr. Brian Amy Prastyo S.H., M.L.I.",
+                    "Dr. Henny Marlyna S.H., M.H., M.L.I.",
+                    "Ayu Galuh Anggraini, M.Kn.",
+                    "Angga Priancha, S.H., LL.M.",
+                    "Zahrashafa Putri Mahardika, M.H."
+                ]
+            }
+        ]
+    },
+    "LWIA600139": {
+        "Nama": "Hukum Zakat dan Wakaf (2 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Zakat & Wakaf",
+                "Jadwal": [
+                    "Kamis, 08.00-09.40"
+                ],
+                "Ruang": "Balai Sidang Jokosutono",
+                "Dosen": [
+                    "Farida Prihatini S.H., M.H., C.N.",
+                    "Dr. Gemala Dewi S.H., LL.M."
+                ]
+            }
+        ]
+    },
+    "PSPS609003": {
+        "Nama": "Identifikasi dan Pengembangan Kreativitas (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas SEM 3(P): IPK (1) LF",
+                "Jadwal": [
+                    "Senin, 16.00-18.30"
+                ],
+                "Ruang": "B. 205",
+                "Dosen": [
+                    "Shahnaz Safitri M.Psi., Psikolog.",
+                    "Evita E. Singgih Salim, M.Psi."
+                ]
+            },
+            {
+                "Nama": "Kelas SEM 3(P): IPK (2) LF",
+                "Jadwal": [
+                    "Selasa, 16.00-18.30"
+                ],
+                "Ruang": "B. 112",
+                "Dosen": [
+                    "Dr. Linda Primana M.Si.",
+                    "Farida Kurniawati S.Psi., M.Sp.Ed., Ph.D."
+                ]
+            }
+        ]
+    },
+    "SPSS600045": {
+        "Nama": "Identitas Sosial dan dinamika Global (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Identitas Sosial dan",
+                "Jadwal": [
+                    "Rabu, 11.00-13.30"
+                ],
+                "Ruang": "H.202",
+                "Dosen": [
+                    "Dra. Lugina Setyawati Setiono M.A., Ph.D.",
+                    "Dr. Lucia Ratih Kusumadewi S.Sos., DEA."
+                ]
+            }
+        ]
+    },
+    "LWPI600404": {
+        "Nama": "Ilmu Kedokteran Forensik dan Medikolegal (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler",
+                "Jadwal": [
+                    "Kamis, 11.00-13.30"
+                ],
+                "Ruang": "2019 - E 205",
+                "Dosen": [
+                    "dr. Natalia Widiasih Raharjanti Sp.KJ.(K)., M.Pd.Ked.",
+                    "dr. Fitri Ambar Sari Sp.F., M.P.H.",
+                    "Prof. Dr. dr. Agus Purwadianto DFM., S.H., M.Si.Sp.F(K)",
+                    "Dr. dr. Yuli Budiningsih Sp.F.",
+                    "dr. Made Ayu Mira Wiryaningsih Sp.F."
+                ]
+            }
+        ]
+    },
+    "LWHD600030": {
+        "Nama": "Ilmu Perundang-undangan (2 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler B",
+                "Jadwal": [
+                    "Senin, 08.00-09.40"
+                ],
+                "Ruang": "2019 - F 105 (Boedi Harsono)",
+                "Dosen": [
+                    "Sony Maulana Sikumbang S.H., M.H.",
+                    "Dr. Maria Farida Indrati, S.H., M.H.",
+                    "Dr. Fitriani Ahlan Sjarif S.H., M.H."
+                ]
+            }
+        ]
+    },
+    "SPIK600111": {
+        "Nama": "Kapita Selekta Humas (3 SKS, Term 7)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Humas 2018 - A",
+                "Jadwal": [
+                    "Selasa, 14.00-16.30"
+                ],
+                "Ruang": "Gd. Kom 301-302",
+                "Dosen": [
+                    "Bernika Yustisiana Narang, S.Sos., M.A."
+                ]
+            },
+            {
+                "Nama": "Kelas Humas 2018 - B",
+                "Jadwal": [
+                    "Jumat, 08.00-10.30"
+                ],
+                "Ruang": "Gd. Kom 301-302",
+                "Dosen": [
+                    "Dra. Henny Supriyati Widyaningsih M.Si."
+                ]
+            }
+        ]
+    },
+    "HMFR630007": {
+        "Nama": "Kebudayaan Italia (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas in-out(Antonietta)",
+                "Jadwal": [
+                    "Selasa, 15.00-15.50",
+                    "Selasa, 16.00-16.50",
+                    "Selasa, 17.00-17.50"
+                ],
+                "Ruang": "9.93069.93069.9306",
+                "Dosen": ""
+            }
+        ]
+    },
+    "SPKR600054": {
+        "Nama": "Kejahatan Lingkungan Dasar (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas 2019B",
+                "Jadwal": [
+                    "Jumat, 14.00-16.30"
+                ],
+                "Ruang": "N1.304",
+                "Dosen": [
+                    "Arindita Raldiutami, M.Sc.",
+                    "Mohammad Irvan Olii S.Sos., M.Si."
+                ]
+            }
+        ]
+    },
+    "PHL1601131": {
+        "Nama": "Kependudukan, Lingkungan dan Kesehatan (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas PHL1601131",
+                "Jadwal": [
+                    "Rabu, 07.00-09.55"
+                ],
+                "Ruang": "G105",
+                "Dosen": [
+                    "Prof. dr. Umar Fahmi Achmadi MPH., Ph.D",
+                    "Dr. Laila Fitria S.K.M., M.K.M."
+                ]
+            }
+        ]
+    },
+    "SPIK600070": {
+        "Nama": "Komunikasi dan Industri Budaya (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Kamed 2019",
+                "Jadwal": [
+                    "Rabu, 11.00-13.30"
+                ],
+                "Ruang": "N2.303",
+                "Dosen": [
+                    "Inaya Rakhmani S.Sos., M.A., Ph.D.",
+                    "Ardhanareswari Avianti Handoko Putri S.Sos., M.B.A."
+                ]
+            }
+        ]
+    },
+    "NSIK603102": {
+        "Nama": "Komunikasi Pada Anak (3 SKS, Term 2)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Elektif Khusus MhsS1",
+                "Jadwal": [
+                    "Rabu, 08.00-10.30"
+                ],
+                "Ruang": "301 B",
+                "Dosen": [
+                    "Dessie Wanda S.Kp., M.N., Ph.D.",
+                    "Ns. Happy Hayati M.Kep., Sp.Kep.An.",
+                    "Dr. Nur Agustini S.Kp., M.Si.",
+                    "Fajar Tri Waluyanti S.Kp., M Kep., Sp.Kep.An",
+                    "Zesi Aprillia, Ns.Sp.Kep.An."
+                ]
+            }
+        ]
+    },
+    "LWPI600403": {
+        "Nama": "Kriminologi & Viktimologi untuk Ahli Hukum (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler",
+                "Jadwal": [
+                    "Kamis, 08.00-10.30"
+                ],
+                "Ruang": "2019 - E 202",
+                "Dosen": [
+                    "Dr. Eva Achjani Zulfa S.H., M.H.",
+                    "Fachry Bey, S.H., M.M.",
+                    "Prof. Dr. Topo Santoso S.H., M.H.",
+                    "Prof. Dr. Harkristuti S.H., M.A., Ph.D."
+                ]
+            }
+        ]
+    },
+    "HMLI600031": {
+        "Nama": "Literasi Informasi (3 SKS, Term 7)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Non Perpust",
+                "Jadwal": [
+                    "Senin, 14.00-14.50",
+                    "Senin, 15.00-15.50",
+                    "Senin, 16.00-16.50"
+                ],
+                "Ruang": "8.81078.81078.8107",
+                "Dosen": [
+                    "Dr. Dra. Indira Irawati M.A.",
+                    "Margareta Aulia Rachman M.Hum."
+                ]
+            }
+        ]
+    },
+    "PHL1602157": {
+        "Nama": "Manajemen Kesehatan Lingkungan (2 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas PHL1602157",
+                "Jadwal": [
+                    "Senin, 15.00-16.40"
+                ],
+                "Ruang": "G302",
+                "Dosen": [
+                    "Dr. Laila Fitria S.K.M., M.K.M.",
+                    "Dr.PH. Sumengen Sutomo"
+                ]
+            }
+        ]
+    },
+    "SPIK600109": {
+        "Nama": "Manajemen Krisis dan Perubahan (3 SKS, Term 7)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Humas 2018 - A",
+                "Jadwal": [
+                    "Rabu, 14.00-16.30"
+                ],
+                "Ruang": "H.201",
+                "Dosen": [
+                    "Bernika Yustisiana Narang, S.Sos., M.A."
+                ]
+            },
+            {
+                "Nama": "Kelas Humas 2018 - B",
+                "Jadwal": [
+                    "Kamis, 14.00-16.30"
+                ],
+                "Ruang": "H.103",
+                "Dosen": [
+                    "Tri Choesijanto Trisnohandoko, S.Sos., M.M."
+                ]
+            }
+        ]
+    },
+    "ENME803174": {
+        "Nama": "Manajemen Risiko (4 SKS, Term 7)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Manajemen Risiko",
+                "Jadwal": [
+                    "Selasa, 16.00-17.40",
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "S.601S.601",
+                "Dosen": [
+                    "Dr. Yudan Whulanza S.T., M.Sc.",
+                    "Prof. Ir. Warjito M.Sc., Ph.D."
+                ]
+            }
+        ]
+    },
+    "PSPS609006": {
+        "Nama": "Manusia & Masyarakat Indonesia (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas SEM 3(P): MMI - LF",
+                "Jadwal": [
+                    "Senin, 16.00-18.30"
+                ],
+                "Ruang": "B. 109",
+                "Dosen": [
+                    "Dewa Fajar Bintamur S.Psi., M.Si."
+                ]
+            }
+        ]
+    },
+    "SPKS600009": {
+        "Nama": "Masalah Kemiskinan (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Maskem Kemisk (B)",
+                "Jadwal": [
+                    "Kamis, 08.00-10.30"
+                ],
+                "Ruang": "H.503",
+                "Dosen": [
+                    "Dra. F. Fentiny M.A., Ph.D.",
+                    "Dr. Dra. Triyanti Anugrahini M.Si.",
+                    "Annisah M.Kesos."
+                ]
+            }
+        ]
+    },
+    "SPIK600058": {
+        "Nama": "Media dan Kajian Budaya (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Kamed 2019",
+                "Jadwal": [
+                    "Kamis, 14.00-16.30"
+                ],
+                "Ruang": "H.303",
+                "Dosen": [
+                    "Endah Triastuti S.Sos., M.Si., Ph.D."
+                ]
+            }
+        ]
+    },
+    "PSPS609024": {
+        "Nama": "Mental Floss for Youth - English (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas SEM 3(P): MFY (ENG)",
+                "Jadwal": [
+                    "Kamis, 16.00-18.30"
+                ],
+                "Ruang": "H. 309",
+                "Dosen": [
+                    "Fitri Fausiah S.Psi., M.Psi.",
+                    "Sherly Saragih Turnip S.Psi., M.Phil., Ph.D."
+                ]
+            }
+        ]
+    },
+    "PSPS609043": {
+        "Nama": "Metakognisi (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas SEM3(P): METAKOG- LF",
+                "Jadwal": [
+                    "Selasa, 16.00-18.30"
+                ],
+                "Ruang": "C. 210",
+                "Dosen": [
+                    "Dr. Lucia Retno Mursitolaksmi M.Si., M.Sp.Ed",
+                    "Prof. Sri Hartati Dewi Reksodiputro Ph.D."
+                ]
+            }
+        ]
+    },
+    "SPSS600036": {
+        "Nama": "Modal Sosial dan Organisasi Masyarakat Sip (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Modal Sosial",
+                "Jadwal": [
+                    "Senin, 14.00-16.30"
+                ],
+                "Ruang": "H.302",
+                "Dosen": [
+                    "Dr. Meuthia Ganie",
+                    "Prof. Dr.-der.Soz. Drs. Rochman Achwan, MDS."
+                ]
+            }
+        ]
+    },
+    "HMJP600003": {
+        "Nama": "Modernisasi Jepang (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas A in,out",
+                "Jadwal": [
+                    "Kamis, 13.00-13.50",
+                    "Kamis, 14.00-14.50",
+                    "Kamis, 15.00-15.50"
+                ],
+                "Ruang": "9.92059.92059.9205",
+                "Dosen": [
+                    "Aldrie Alman Drajat, S.S., S.Hum.",
+                    "Himawan Pratama S.Hum., M.Si."
+                ]
+            },
+            {
+                "Nama": "Kelas B in,out",
+                "Jadwal": [
+                    "Kamis, 13.00-13.50",
+                    "Kamis, 14.00-14.50",
+                    "Kamis, 15.00-15.50"
+                ],
+                "Ruang": "9.93039.93039.9303",
+                "Dosen": [
+                    "Aldrie Alman Drajat, S.S., S.Hum.",
+                    "Himawan Pratama S.Hum., M.Si."
+                ]
+            }
+        ]
+    },
+    "SPKS600032": {
+        "Nama": "MSDM dalam Organisasi Pelayanan Kemanusiaa (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas MSDM dalam Org (A)",
+                "Jadwal": [
+                    "Senin, 08.00-10.30"
+                ],
+                "Ruang": "H.501",
+                "Dosen": [
+                    "Dra. Lia Djoemeliarasanti Djoekardi M.A.",
+                    "Dra. Fitriyah M.Si."
+                ]
+            }
+        ]
+    },
+    "SPIP600008": {
+        "Nama": "Pemerintahan dan Politik Desa (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Poldes",
+                "Jadwal": [
+                    "Kamis, 14.00-16.30"
+                ],
+                "Ruang": "H.404",
+                "Dosen": [
+                    "Dr. Sri Budi Eko Wardani S.IP., M.Si.",
+                    "Dirga Ardiansa S.Sos., M.Si.",
+                    "Dr. Nurul Nurhandjati S.IP., M.Si."
+                ]
+            }
+        ]
+    },
+    "SPIK600069": {
+        "Nama": "Pemikiran Kreatif (2 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Wajib - 2020 - A",
+                "Jadwal": [
+                    "Rabu, 08.00-09.40"
+                ],
+                "Ruang": "H.201",
+                "Dosen": [
+                    "Patresia Putri Kirnandita, M.Hum."
+                ]
+            },
+            {
+                "Nama": "Kelas Wajib - 2020 - B",
+                "Jadwal": [
+                    "Kamis, 14.00-15.40"
+                ],
+                "Ruang": "H.205",
+                "Dosen": [
+                    "Chandra Kirana S.Sos., M.Si."
+                ]
+            },
+            {
+                "Nama": "Kelas Wajib - 2020 - C",
+                "Jadwal": [
+                    "Kamis, 11.00-12.40"
+                ],
+                "Ruang": "Gd. Kom 304-305",
+                "Dosen": [
+                    "Dr. Hendriyani S.Sos., M.Si."
+                ]
+            },
+            {
+                "Nama": "Kelas Wajib - 2020 - D",
+                "Jadwal": [
+                    "Kamis, 08.00-09.40"
+                ],
+                "Ruang": "H.301",
+                "Dosen": [
+                    "Yulia Fitri Utami, M.M.C."
+                ]
+            }
+        ]
+    },
+    "CSGE602022": {
+        "Nama": "Pemrograman Berbasis Platform (4 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas PBD",
+                "Jadwal": [
+                    "Selasa, 08.00-09.40",
+                    "Kamis, 08.00-09.40"
+                ],
+                "Ruang": "A7.12 (Ged Baru)A7.12 (Ged Baru)",
+                "Dosen": [
+                    "Suci Fadhilah, S.Kom., M.A."
+                ]
+            }
+        ]
+    },
+    "LWPI600017": {
+        "Nama": "Penerapan Asas-Asas Hukum Pidana (2 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler",
+                "Jadwal": [
+                    "Senin, 08.00-09.40"
+                ],
+                "Ruang": "2019 - E 205",
+                "Dosen": [
+                    "Dr. Surastini Fitriasih S.H., M.H.",
+                    "Ahmad Ghozi S.H., LL.M.",
+                    "Dr. Eva Achjani Zulfa S.H., M.H.",
+                    "Gandjar Laksmana Bonaprapta S.H., M.H.",
+                    "Dr. Patricia Rinwigati S.H., M.I.L."
+                ]
+            }
+        ]
+    },
+    "HMEN600062": {
+        "Nama": "Peng. Penulisan Kreatif Media dlm Bhs.Ingg (2 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas A,B,C",
+                "Jadwal": [
+                    "Jumat, 10.00-10.50",
+                    "Jumat, 11.00-11.50"
+                ],
+                "Ruang": "1.12021.1202",
+                "Dosen": [
+                    "Shuri Mariasih Gietty M.Hum., M.A., Ph.D."
+                ]
+            }
+        ]
+    },
+    "SPKS600002": {
+        "Nama": "Pengantar Ilmu Kesejahteraan Sosial (3 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Pengantar Ilmu Kes A",
+                "Jadwal": [
+                    "Kamis, 11.00-13.30"
+                ],
+                "Ruang": "H.401",
+                "Dosen": [
+                    "Prof. Drs. Isbandi Rukminto Adi M.Kes., Ph.D.",
+                    "Kania Saraswati Harisoesyanti, S.Sos., M.Kesos."
+                ]
+            },
+            {
+                "Nama": "Kelas Pengantar Ilmu Kes B",
+                "Jadwal": [
+                    "Jumat, 14.00-16.30"
+                ],
+                "Ruang": "H.305",
+                "Dosen": [
+                    "Prof. Drs. Isbandi Rukminto Adi M.Kes., Ph.D.",
+                    "Kania Saraswati Harisoesyanti, S.Sos., M.Kesos."
+                ]
+            }
+        ]
+    },
+    "SPIK600006": {
+        "Nama": "Pengantar Jurnalisme (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Wajib - 2020 - A",
+                "Jadwal": [
+                    "Senin, 11.00-13.30"
+                ],
+                "Ruang": "H.202",
+                "Dosen": [
+                    "Meily Badriati S.Sos., M.Si."
+                ]
+            },
+            {
+                "Nama": "Kelas Wajib - 2020 - B",
+                "Jadwal": [
+                    "Selasa, 08.00-10.30"
+                ],
+                "Ruang": "H.203",
+                "Dosen": [
+                    "Dr. Ade Armando M.S."
+                ]
+            },
+            {
+                "Nama": "Kelas Wajib - 2020 - C",
+                "Jadwal": [
+                    "Selasa, 11.00-13.30"
+                ],
+                "Ruang": "H.202",
+                "Dosen": [
+                    "Dra. Rosy Tri Pagiwati Istiadi M.A."
+                ]
+            },
+            {
+                "Nama": "Kelas Wajib - 2020 - D",
+                "Jadwal": [
+                    "Rabu, 08.00-10.30"
+                ],
+                "Ruang": "N2.304",
+                "Dosen": [
+                    "Drs. Awang Ruswandi M.Si."
+                ]
+            }
+        ]
+    },
+    "SPIK600005": {
+        "Nama": "Pengantar Kajian Media (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Pengkamed 2020 - A",
+                "Jadwal": [
+                    "Selasa, 08.00-10.30"
+                ],
+                "Ruang": "N2.305",
+                "Dosen": [
+                    "Endah Triastuti S.Sos., M.Si., Ph.D.",
+                    "Dr. Niken Febriana Ernungtyas, M.Si., M.Si."
+                ]
+            },
+            {
+                "Nama": "Kelas Pengkamed 2020 - B",
+                "Jadwal": [
+                    "Selasa, 11.00-13.30"
+                ],
+                "Ruang": "Gd. Kom 301-302",
+                "Dosen": [
+                    "Inaya Rakhmani S.Sos., M.A., Ph.D."
+                ]
+            },
+            {
+                "Nama": "Kelas Pengkamed 2020 - C",
+                "Jadwal": [
+                    "Kamis, 08.00-10.30"
+                ],
+                "Ruang": "H.202",
+                "Dosen": [
+                    "Dr. Nina Mutmainnah M.Si."
+                ]
+            },
+            {
+                "Nama": "Kelas Pengkamed 2020 - D",
+                "Jadwal": [
+                    "Kamis, 11.00-13.30"
+                ],
+                "Ruang": "H.204",
+                "Dosen": [
+                    "Prof. Dr. Billy Sarwono M.A.",
+                    "Dr. Niken Febriana Ernungtyas, M.Si., M.Si."
+                ]
+            }
+        ]
+    },
+    "ENME601001": {
+        "Nama": "Pengantar Teknik Mesin (2 SKS, Term 1)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Pengantar Tek Mes-01",
+                "Jadwal": [
+                    "Jumat, 13.00-14.40"
+                ],
+                "Ruang": "K.301",
+                "Dosen": [
+                    "Prof. Dr. Ario Sunar Baskoro S.T., M.T., M.Eng.",
+                    "Prof. Dr. Ir. Gandjar Kiswanto M.Eng.",
+                    "Prof. Ir. Yulianto Sulistyo Nugroho M.Sc., Ph.D.",
+                    "Prof. Dr. Ir. Harinaldi M.Eng.",
+                    "Prof. Dr. Ir. Raldiartono DEA."
+                ]
+            }
+        ]
+    },
+    "HMIN600012": {
+        "Nama": "Penulisan Populer (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas D. Non Indonesia",
+                "Jadwal": [
+                    "Selasa, 14.00-14.50",
+                    "Selasa, 15.00-15.50",
+                    "Selasa, 16.00-16.50"
+                ],
+                "Ruang": "4.42054.42054.4205",
+                "Dosen": [
+                    "Mohammad Umar Muslim S.S., M.A., Ph.D.",
+                    "Dr. Frans Asisi Datang S.S., M.Hum."
+                ]
+            }
+        ]
+    },
+    "LWLK600039": {
+        "Nama": "Perancangan Peraturan Negara (2 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler",
+                "Jadwal": [
+                    "Senin, 13.00-14.40"
+                ],
+                "Ruang": "Balai Sidang",
+                "Dosen": [
+                    "Sony Maulana Sikumbang S.H., M.H.",
+                    "Dr. Fitriani Ahlan Sjarif S.H., M.H.",
+                    "Dr. Maria Farida Indrati, S.H., M.H."
+                ]
+            }
+        ]
+    },
+    "SPIP600024": {
+        "Nama": "Politik di Asia Selatan (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Pol. di Asia Selatan",
+                "Jadwal": [
+                    "Rabu, 08.00-10.30"
+                ],
+                "Ruang": "B.204",
+                "Dosen": [
+                    "Evida Kartini S.Sos., M.Si."
+                ]
+            }
+        ]
+    },
+    "SPIP600023": {
+        "Nama": "Politik di Timur Tengah dan Afrika (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Pol. di Timteng",
+                "Jadwal": [
+                    "Jumat, 14.00-16.30"
+                ],
+                "Ruang": "H.302",
+                "Dosen": [
+                    "Dr. Drs. Kamarudin M.Si.",
+                    "Syahrul Hidayat S.IP., M.Si.,M.A, Ph.D.",
+                    "Yon Machmudi Ph.D.",
+                    "M. Hamdan Basyar, M.Si."
+                ]
+            }
+        ]
+    },
+    "LWLK600037": {
+        "Nama": "Praktek Hukum PTUN (3 SKS, Term 7)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Reguler B",
+                "Jadwal": [
+                    "Jumat, 08.00-10.30"
+                ],
+                "Ruang": "2019 - D 407",
+                "Dosen": [
+                    "Chudry Sitompul, S.H., M.H.",
+                    "Hening Hapsari Setyorini S.H., M.H."
+                ]
+            }
+        ]
+    },
+    "PHS1600132": {
+        "Nama": "Promosi Kesehatan (2 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas PHS1600132C",
+                "Jadwal": [
+                    "Kamis, 10.00-11.40"
+                ],
+                "Ruang": "G404",
+                "Dosen": [
+                    "dr. Adi Sasongko, M.A."
+                ]
+            }
+        ]
+    },
+    "PSPS609011": {
+        "Nama": "Psikologi dalam Sehari-hari (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas SEM 3: Psi Hari",
+                "Jadwal": [
+                    "Rabu, 15.00-17.30"
+                ],
+                "Ruang": "B. 109",
+                "Dosen": [
+                    "Dra. Fenny Hartiani M.Psi.",
+                    "Dr. Lucia Retno Mursitolaksmi M.Si., M.Sp.Ed"
+                ]
+            }
+        ]
+    },
+    "SPKR600033": {
+        "Nama": "Psikologi Kejahatan Dasar (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas 2019",
+                "Jadwal": [
+                    "Kamis, 14.00-16.30"
+                ],
+                "Ruang": "N1.303",
+                "Dosen": [
+                    "Nathanael Elnadus Johanes Sumampouw, S.Psi., M.Psi., M.Sc.",
+                    "Dr. Dra. Ni Made Martini Puteri M.Si."
+                ]
+            }
+        ]
+    },
+    "PSPS609049": {
+        "Nama": "Psikologi Konsumen (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas SEM 3(P):Konsumen LF",
+                "Jadwal": [
+                    "Kamis, 16.00-18.30"
+                ],
+                "Ruang": "H. 312",
+                "Dosen": [
+                    "Dra. Bertina Sjabadhyni M.Si."
+                ]
+            }
+        ]
+    },
+    "PSPS609051": {
+        "Nama": "Psikologi Pendidikan Anak Berbakat (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas SEM 3(P): Psi Bakat",
+                "Jadwal": [
+                    "Selasa, 16.00-18.30"
+                ],
+                "Ruang": "H. 313",
+                "Dosen": [
+                    "Prof. Dr. Lydia Freyani Hawadi M.M., Psikolog."
+                ]
+            }
+        ]
+    },
+    "PSPS609015": {
+        "Nama": "Psikologi Pendidikan Karir (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas SEM 3P: Psidikar(LF)",
+                "Jadwal": [
+                    "Jumat, 15.00-17.30"
+                ],
+                "Ruang": "D. 204",
+                "Dosen": [
+                    "Dr. Linda Primana M.Si.",
+                    "Dr. Rose Mini Agoes Salim M.Psi."
+                ]
+            }
+        ]
+    },
+    "PSPS609052": {
+        "Nama": "Psikologi Perdamaian (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas SEM 3(P): Psi Damai",
+                "Jadwal": [
+                    "Selasa, 16.00-18.30"
+                ],
+                "Ruang": "H. 309",
+                "Dosen": [
+                    "Dicky Chresthover Pelupessy S.Psi., M.D.S.., Ph.D."
+                ]
+            }
+        ]
+    },
+    "HMHI600029": {
+        "Nama": "Sejarah  Hubungan AS-Indonesia (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Sejarah  Hubungan AS",
+                "Jadwal": [
+                    "Selasa, 13.00-13.50",
+                    "Selasa, 14.00-14.50",
+                    "Selasa, 15.00-15.50"
+                ],
+                "Ruang": "4.42164.42164.4216",
+                "Dosen": [
+                    "Dr. Yuda Benharry Tangkilisan S.S., M.Hum."
+                ]
+            }
+        ]
+    },
+    "HMHI600024": {
+        "Nama": "Sejarah Asia Tenggara Modern (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Sejarah Asia Tenggar",
+                "Jadwal": [
+                    "Senin, 08.00-08.50",
+                    "Senin, 09.00-09.50",
+                    "Senin, 10.00-10.50"
+                ],
+                "Ruang": "4.42124.42124.4212",
+                "Dosen": [
+                    "Dita Putri Prameswari, S.Hum., M.Hum."
+                ]
+            }
+        ]
+    },
+    "HMJP600022": {
+        "Nama": "Sejarah Diplomasi Jepang (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas B (Out)",
+                "Jadwal": [
+                    "Senin, 13.00-13.50",
+                    "Senin, 14.00-14.50",
+                    "Senin, 15.00-15.50"
+                ],
+                "Ruang": "9.93019.93019.9301",
+                "Dosen": [
+                    "Dhini Afiatanti, M.A."
+                ]
+            }
+        ]
+    },
+    "HMHI600025": {
+        "Nama": "Sejarah Hubungan Antar Bangsa di Asia Teng (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Sejarah Hubungan Ant",
+                "Jadwal": [
+                    "Selasa, 13.00-13.50",
+                    "Selasa, 14.00-14.50",
+                    "Selasa, 15.00-15.50"
+                ],
+                "Ruang": "1.12011.12011.1201",
+                "Dosen": [
+                    "Dr. Linda Sunarti M.Hum."
+                ]
+            }
+        ]
+    },
+    "HMFR630061": {
+        "Nama": "Sejarah Italia (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas in-out",
+                "Jadwal": [
+                    "Selasa, 11.00-11.50",
+                    "Selasa, 12.00-12.50",
+                    "Selasa, 13.00-13.50"
+                ],
+                "Ruang": "9.93069.93069.9306",
+                "Dosen": ""
+            }
+        ]
+    },
+    "HMHI600043": {
+        "Nama": "Sejarah Media Massa (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas B",
+                "Jadwal": [
+                    "Jumat, 08.00-08.50",
+                    "Jumat, 09.00-09.50",
+                    "Jumat, 10.00-10.50"
+                ],
+                "Ruang": "4.42164.42164.4216",
+                "Dosen": [
+                    "Raisye Soleh Haghia S.Hum., M.Hum."
+                ]
+            }
+        ]
+    },
+    "HMHI600035": {
+        "Nama": "Sejarah Wanita Australia (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Sejarah Wanita Austr",
+                "Jadwal": [
+                    "Selasa, 13.00-13.50",
+                    "Selasa, 14.00-14.50",
+                    "Selasa, 15.00-15.50"
+                ],
+                "Ruang": "4.42134.42134.4213",
+                "Dosen": [
+                    "Noor Fatia Lastika Sari, M.Hum.",
+                    "Toebagus Lutfi, S.S., M.Hum."
+                ]
+            }
+        ]
+    },
+    "PHL1602153": {
+        "Nama": "Sistem Informasi Geografis Kesehatan Lingk (2 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas PHL1602153",
+                "Jadwal": [
+                    "Rabu, 16.00-17.40"
+                ],
+                "Ruang": "G304",
+                "Dosen": [
+                    "Dr. Al Asyary S.K.M., M.P.H.",
+                    "Dr. Ema Hermawati S.Si., M.K.M."
+                ]
+            }
+        ]
+    },
+    "CSCM602055": {
+        "Nama": "Sistem Operasi (4 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Operating Systems",
+                "Jadwal": [
+                    "Senin, 08.00-09.40",
+                    "Rabu, 08.00-09.40"
+                ],
+                "Ruang": "A7.14 (Ged Baru)A7.14 (Ged Baru)",
+                "Dosen": [
+                    "Rahmat Mustafa Samik Ibrahim M.Kom."
+                ]
+            }
+        ]
+    },
+    "SPSS600037": {
+        "Nama": "Sosiologi Agama (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Sosiologi Agama",
+                "Jadwal": [
+                    "Kamis, 14.00-16.30"
+                ],
+                "Ruang": "H.301",
+                "Dosen": [
+                    "Dr. Lucia Ratih Kusumadewi S.Sos., DEA."
+                ]
+            }
+        ]
+    },
+    "PSPS609070": {
+        "Nama": "Stres dan Keselamatan Kerja (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas SEM 3(P): SKK",
+                "Jadwal": [
+                    "Jumat, 15.00-17.30"
+                ],
+                "Ruang": "C. 307",
+                "Dosen": [
+                    "Dr. Arum Etikariena S.Psi., M.Psi."
+                ]
+            }
+        ]
+    },
+    "CSIE604290": {
+        "Nama": "Technopreneurship (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Technopreneurship",
+                "Jadwal": [
+                    "Senin, 13.00-15.30"
+                ],
+                "Ruang": "A6.11 (Ged Baru)",
+                "Dosen": [
+                    "Bob Hardian M.Kom., Ph.D."
+                ]
+            }
+        ]
+    },
+    "CSCM602241": {
+        "Nama": "Teori Bahasa & Automata (4 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas Automata",
+                "Jadwal": [
+                    "Senin, 10.00-11.40",
+                    "Rabu, 10.00-11.40"
+                ],
+                "Ruang": "A7.14 (Ged Baru)A7.14 (Ged Baru)",
+                "Dosen": [
+                    "Ir. Suryana Setiawan M.Sc., Ph.D."
+                ]
+            }
+        ]
+    },
+    "SPKR600030": {
+        "Nama": "Teror dan Terorisme Dasar (3 SKS, Term 5)",
+        "Kelas": [
+            {
+                "Nama": "Kelas 2019",
+                "Jadwal": [
+                    "Senin, 08.00-10.30"
+                ],
+                "Ruang": "N1.303",
+                "Dosen": [
+                    "Prof. Drs. Adrianus Eliasta Meliala M.Si., M.Sc, Ph.D."
+                ]
+            }
+        ]
+    },
+    "SPSS600040": {
+        "Nama": "TJSK dalam Perspektif Sosiologi (3 SKS, Term 0)",
+        "Kelas": [
+            {
+                "Nama": "Kelas TJSK dalam Perspekti",
+                "Jadwal": [
+                    "Kamis, 08.00-10.30"
+                ],
+                "Ruang": "H.502",
+                "Dosen": [
+                    "Yosef Hilarius Timu Pera S.Sos., M.Si.",
+                    "Prof. Dr. Dody Prayogo MPSt"
+                ]
+            }
+        ]
+    },
+    "PHL1601132": {
+        "Nama": "Toksikologi Lingkungan (3 SKS, Term 3)",
+        "Kelas": [
+            {
+                "Nama": "Kelas PHL1601132",
+                "Jadwal": [
+                    "Rabu, 13.00-15.30"
+                ],
+                "Ruang": "G303",
+                "Dosen": [
+                    "Drs. Bambang Wispriyono Apt., Ph.D."
+                ]
+            }
+        ]
+    }
+}
