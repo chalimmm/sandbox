@@ -2,3 +2,4 @@ subprocess
 streamlit
 seleniumbase
 html-to-json
+bs4
