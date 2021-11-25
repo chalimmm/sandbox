@@ -12,6 +12,7 @@ with st.form("my_form"):
     login = st.form_submit_button("Login SSO")
     if isAgree and login:
         with st.spinner('Authenticating...'):
+            subprocess.call(["sudo", "apt-get", "install", "chromium-browser"])
             subprocess.call(["pytest", "SiakNg.py", "--var1="+username, "--var2="+password])
         with st.spinner('Collecting Data...'):
             subprocess.call(["python", "BeautifulSoup.py"])
