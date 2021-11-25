@@ -2,3 +2,6 @@ streamlit
 seleniumbase
 html-to-json
 BeautifulSoup4
+beautifulsoup4
+bs4
+python3-bs4
