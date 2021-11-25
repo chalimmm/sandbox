@@ -1,9 +1,6 @@
 import subprocess
 import streamlit as st
 import json
-import os
-
-st.title(os.uname())
 
 with st.form("my_form"):
     st.write("SandBox Login SSO")
@@ -15,6 +12,7 @@ with st.form("my_form"):
     login = st.form_submit_button("Login SSO")
     if isAgree and login:
         with st.spinner('Authenticating...'):
+            subprocess.call(["sbase", "install", "geckodriver"])
             subprocess.call(["pytest", "SiakNg.py", "--var1="+username, "--var2="+password])
         with st.spinner('Collecting Data...'):
             subprocess.call(["python", "BeautifulSoup.py"])
