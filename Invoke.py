@@ -13,7 +13,7 @@ with st.form("my_form"):
     if isAgree and login:
         with st.spinner('Authenticating...'):
             subprocess.call(["sbase", "install", "geckodriver"])
-            subprocess.call(["pytest", "SiakNg.py", "--var1="+username, "--var2="+password])
+            subprocess.call(["pytest", "SiakNg.py", "--var1="+username, "--var2="+password, "--browser=firefox", "--headless"])
         with st.spinner('Collecting Data...'):
             subprocess.call(["python", "BeautifulSoup.py"])
         st.success('Authenticated')
