@@ -4,7 +4,7 @@ from getpass import getpass
 import streamlit as st
 import json
 
-install_browser = "apt install google-chrome-stable".split()
+install_browser = "wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb; dpkg -i google-chrome-stable_current_amd64.deb; apt-get -fy install".split()
 proc = subprocess.run(
     install_browser,
     stdout=subprocess.PIPE,
