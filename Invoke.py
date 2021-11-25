@@ -5,16 +5,6 @@ import streamlit as st
 import json
 import os
 
-
-os.system('sudo apt install google-chrome-stable')
-os.system('sudo apt-get install firefox')
-install_driver = "sbase install chromedriver latest".split()
-proc = subprocess.run(
-    install_driver,
-    stdout=subprocess.PIPE,
-    encoding="ascii",
-)
-
 with st.form("my_form"):
     st.write("SandBox Login SSO")
     username = st.text_input(label='Username', key='usr', max_chars=30)
