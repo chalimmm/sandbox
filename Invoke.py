@@ -4,6 +4,19 @@ from getpass import getpass
 import streamlit as st
 import json
 
+install_browser = "apt install google-chrome-stable".split()
+proc = subprocess.run(
+    install_browser,
+    stdout=subprocess.PIPE,
+    encoding="ascii",
+)
+install_driver = "sbase install chromedriver latest".split()
+proc = subprocess.run(
+    install_driver,
+    stdout=subprocess.PIPE,
+    encoding="ascii",
+)
+
 with st.form("my_form"):
     st.write("SandBox Login SSO")
     username = st.text_input(label='Username', key='usr', max_chars=30)
@@ -14,12 +27,6 @@ with st.form("my_form"):
     login = st.form_submit_button("Login SSO")
     if isAgree and login:
         with st.spinner('Authenticating...'):
-            install_browser = "apt install google-chrome-stable".split()
-            proc = subprocess.run(
-                install_browser,
-                stdout=subprocess.PIPE,
-                encoding="ascii",
-            )
             subprocess.call(["pytest", "SiakNg.py", "--var1="+username, "--var2="+password, "--headless"])
         with st.spinner('Collecting Data...'):
             subprocess.call(["python", "BeautifulSoup.py"])
