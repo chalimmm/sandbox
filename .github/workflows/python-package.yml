@@ -40,3 +40,6 @@ jobs:
       run: |
         seleniumbase install chromedriver
         seleniumbase install geckodriver
+    - name: SeleniumBase Running Test
+      run: |
+        pytest SiakNg.py --var1='chandra.halim' --var2='chaind.18'
