@@ -1,4 +1,4 @@
 streamlit
 seleniumbase
 html-to-json
-bs4
+beautifulsoup4
