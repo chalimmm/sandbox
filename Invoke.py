@@ -3,6 +3,7 @@ import subprocess
 from getpass import getpass
 import streamlit as st
 import json
+import os
 
 
 os.system('sudo apt install google-chrome-stable')
