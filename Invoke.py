@@ -1,6 +1,9 @@
 import subprocess
 import streamlit as st
 import json
+import os
+
+st.title(os.name)
 
 with st.form("my_form"):
     st.write("SandBox Login SSO")
