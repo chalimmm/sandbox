@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import subprocess
 from getpass import getpass
 import streamlit as st
@@ -13,7 +14,7 @@ with st.form("my_form"):
     login = st.form_submit_button("Login SSO")
     if isAgree and login:
         with st.spinner('Authenticating...'):
-            install_browser = "sudo apt install google-chrome-stable".split()
+            install_browser = "apt install google-chrome-stable".split()
             proc = subprocess.run(
                 install_browser,
                 stdout=subprocess.PIPE,
