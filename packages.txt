@@ -1,1 +1,1 @@
-iceweasel
+firefox-dev
