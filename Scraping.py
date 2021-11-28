@@ -16,11 +16,11 @@ driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), c
 # Now you can start using Selenium
 driver.get("https://academic.ui.ac.id/")
 
-username = driver.find_element_by_name("u")
-username.send_keys("chandra.halim")
+username = driver.find_element(By.CSS_SELECTOR, '#u')
+username.send_keys(sys.argv[1])
 
-password = driver.find_element_by_name("p")
-password.send_keys("chaind.18")
+password = driver.find_element(By.CSS_SELECTOR, "#login > form > p:nth-child(2) > input")
+password.send_keys(sys.argv[2])
 
 login = driver.find_element_by_css_selector("input[value='Login']")
 login.click()
