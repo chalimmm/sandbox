@@ -16,8 +16,6 @@ with st.form("my_form"):
     if isAgree and login:
         with st.spinner('Authenticating...'):
             subprocess.call(["python", "selenium.py"])
-        with st.spinner('Collecting Data...'):
-            subprocess.call(["python", "BeautifulSoup.py"])
         st.success('Authenticated')
 
 with open("CoursePlan.json", "r") as file:
