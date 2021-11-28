@@ -15,7 +15,7 @@ with st.form("my_form"):
     login = st.form_submit_button("Login SSO")
     if isAgree and login:
         with st.spinner('Authenticating...'):
-            subprocess.call(["python", "selenium.py"])
+            subprocess.call(["python", "selenium.py", username, password])
         st.success('Authenticated')
 
 with open("CoursePlan.json", "r") as file:
