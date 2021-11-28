@@ -125,5 +125,5 @@ for element in listElements:
                 'Dosen' : ''
             })
 
-with open("output.json", "w") as file: 
+with open("CoursePlan.json", "w") as file: 
     file.write(json.dumps(courses, indent=4))
