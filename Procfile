@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Index.py
+web: sh setup.sh && streamlit run Invoke.py
