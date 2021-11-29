@@ -17,7 +17,7 @@ with st.form("my_form"):
         st.markdown(
         """
         <a href="javascript:confirm('Simpan IRS?')">
-        <img src="https://i.ibb.co/yP2wjhW/jaka-02.png" alt="Logo JAKA" style="width:50px;height:50px;">
+        <button>Simpan</button>
         </a>
         """, unsafe_allow_html=True)
         with st.spinner('Authenticating...'):
