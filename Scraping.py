@@ -19,15 +19,7 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
 # Now you can start using Selenium
 driver.get("https://www.google.com")
-driver.execute_script("window.open('');")
-driver.switch_to_window(driver.window_handles[1])
-driver.get("https://www.youtube.com")
-time.sleep(3)
-driver.close()
-time.sleep(3)
-print("Runnning")
-driver.switch_to_window(driver.window_handles[0])
-time.sleep(3)
+print(driver.page_source)
 driver.close()
 
 # driver.get("https://academic.ui.ac.id/")
