@@ -14,6 +14,12 @@ with st.form("my_form"):
     # Every form must have a submit button.
     login = st.form_submit_button("Login SSO")
     if isAgree and login:
+        st.markdown(
+        """
+        <a href="javascript:confirm('Simpan IRS?')">
+        <img src="https://i.ibb.co/yP2wjhW/jaka-02.png" alt="Logo JAKA" style="width:50px;height:50px;">
+        </a>
+        """, unsafe_allow_html=True)
         with st.spinner('Authenticating...'):
             subprocess.call(["python", "Scraping.py", username, password])
         st.success('Authenticated')
