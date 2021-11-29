@@ -1,4 +1,7 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+
 from bs4 import BeautifulSoup
 import json
 import re
@@ -6,12 +9,13 @@ import time
 import sys
 import os
 
-op = webdriver.ChromeOptions()
-op.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
-op.add_argument("--headless")
-op.add_argument("--disable-dev-sh-usage")
-op.add_argument("--no-sandbox")
-driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), chrome_options=op)
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+# op = webdriver.ChromeOptions()
+# op.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+# op.add_argument("--headless")
+# op.add_argument("--disable-dev-sh-usage")
+# op.add_argument("--no-sandbox")
+# driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), chrome_options=op)
 
 # Now you can start using Selenium
 driver.get("https://www.google.com")
