@@ -6,124 +6,136 @@ import time
 import sys
 import os
 
-chrome_options = webdriver.ChromeOptions()
-chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
-chrome_options.add_argument("--headless")
-chrome_options.add_argument("--disable-dev-shm-usage")
-chrome_options.add_argument("--no-sandbox")
-driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), chrome_options=chrome_options)
+op = webdriver.ChromeOptions()
+op.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+op.add_argument("--headless")
+op.add_argument("--disable-dev-sh-usage")
+op.add_argument("--no-sandbox")
+driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), chrome_options=op)
 
 # Now you can start using Selenium
-driver.get("https://academic.ui.ac.id/")
-
-username = driver.find_element(By.CSS_SELECTOR, '#u')
-username.send_keys(sys.argv[1])
-
-password = driver.find_element(By.CSS_SELECTOR, '#login > form > p:nth-child(2) > input')
-password.send_keys(sys.argv[2])
-
-login = driver.find_element(By.CSS_SELECTOR, "input[value='Login']")
-login.click()
-
+driver.get("https://www.google.com")
+driver.execute_script("window.open('');")
+driver.switch_to_window(driver.window_handles[1])
+driver.get("https://www.youtube.com")
 time.sleep(3)
-
-driver.get("https://academic.ui.ac.id/main/Schedule/Index")
-
-page_source = driver.page_source
-
+driver.close()
+time.sleep(3)
+print("Runnning")
+driver.switch_to_window(driver.window_handles[0])
+time.sleep(3)
 driver.close()
 
-cuts = []
+# driver.get("https://academic.ui.ac.id/")
+
+# username = driver.find_element(By.CSS_SELECTOR, '#u')
+# username.send_keys(sys.argv[1])
+
+# password = driver.find_element(By.CSS_SELECTOR, '#login > form > p:nth-child(2) > input')
+# password.send_keys(sys.argv[2])
+
+# login = driver.find_element(By.CSS_SELECTOR, "input[value='Login']")
+# login.click()
+
+# time.sleep(3)
+
+# driver.get("https://academic.ui.ac.id/main/Schedule/Index")
+
+# page_source = driver.page_source
+
+# driver.close()
+
+# cuts = []
         
-for m in re.finditer('<table class="box">', page_source):
-    cuts.append([m.start(), m.end()])
+# for m in re.finditer('<table class="box">', page_source):
+#     cuts.append([m.start(), m.end()])
 
-iter = 0
-for m in re.finditer('</table>', page_source):
-    cuts[iter][1] = m.end()
-    iter += 1
-    if iter >= len(cuts):
-        break
+# iter = 0
+# for m in re.finditer('</table>', page_source):
+#     cuts[iter][1] = m.end()
+#     iter += 1
+#     if iter >= len(cuts):
+#         break
 
-filtered_page = ""
-for i in range(len(cuts)):
-    filtered_page += page_source[cuts[i][0]:cuts[i][1]]
+# filtered_page = ""
+# for i in range(len(cuts)):
+#     filtered_page += page_source[cuts[i][0]:cuts[i][1]]
 
-regexDay = '([A-Za-z]+, [0-9]+.[0-9]+-[0-9]+.[0-9]+)'
+# regexDay = '([A-Za-z]+, [0-9]+.[0-9]+-[0-9]+.[0-9]+)'
 
-soup = BeautifulSoup(filtered_page, 'html.parser')
+# soup = BeautifulSoup(filtered_page, 'html.parser')
 
-courses = soup.find_all("tr")
+# courses = soup.find_all("tr")
 
-elements = ""
+# elements = ""
    
-for course in courses:
-    selected = course.find("th")
-    if selected is not None:
-        if ";" in selected.text:
-            elements += selected.text
-            elements += "--------------"
-    selected = course.find_all("td", nowrap="")
-    if len(selected) > 0:
-        for element in selected:
-            elements += element.text + "\n"
-        elements += "--------------"
+# for course in courses:
+#     selected = course.find("th")
+#     if selected is not None:
+#         if ";" in selected.text:
+#             elements += selected.text
+#             elements += "--------------"
+#     selected = course.find_all("td", nowrap="")
+#     if len(selected) > 0:
+#         for element in selected:
+#             elements += element.text + "\n"
+#         elements += "--------------"
 
-with open("output.txt", "w") as file:
-    file.write(str(elements))
+# with open("output.txt", "w") as file:
+#     file.write(str(elements))
 
-listElements = elements.split("--------------")
+# listElements = elements.split("--------------")
 
-courses = {}
+# courses = {}
 
-temp = ""
+# temp = ""
 
-for element in listElements:
-    element = element.strip()
-    if ";" in element and "-" not in element[:11]:
-        temp = element[:11].strip()
-        temp = temp.strip('\n')
-        # print(temp)
-        name = element[13:-28].strip()
-        name = name.strip('\n')
-        courses.update({
-            temp : {
-                'Nama' : name,
-                'Kelas' : []
-            }
-        })
-    elif temp != "":
-        tempClass = element.split('\n')
-        if (len(tempClass) > 1 and ';' in tempClass[1]):
-            break
-        elif len(tempClass) > 6 :
-            courses[temp]['Kelas'].append({
-                'Nama' : tempClass[1],
-                'Jadwal' : re.findall(regexDay, tempClass[4]),
-                'Ruang' : tempClass[5].strip("-"), 
-                'Dosen' : tempClass[6].strip("- ").split("- ")
-            })
-        elif len(tempClass) > 5 :
-            courses[temp]['Kelas'].append({
-                'Nama' : tempClass[1],
-                'Jadwal' : re.findall(regexDay, tempClass[4]),
-                'Ruang' : tempClass[5].strip("-"), 
-                'Dosen' : ''
-            })
-        elif len(tempClass) > 4 :
-            courses[temp]['Kelas'].append({
-                'Nama' : tempClass[1],
-                'Jadwal' : re.findall(regexDay, tempClass[4]),
-                'Ruang' : '', 
-                'Dosen' : ''
-            })
-        elif len(tempClass) > 3 :
-            courses[temp]['Kelas'].append({
-                'Nama' : tempClass[1],
-                'Jadwal' : '',
-                'Ruang' : '', 
-                'Dosen' : ''
-            })
+# for element in listElements:
+#     element = element.strip()
+#     if ";" in element and "-" not in element[:11]:
+#         temp = element[:11].strip()
+#         temp = temp.strip('\n')
+#         # print(temp)
+#         name = element[13:-28].strip()
+#         name = name.strip('\n')
+#         courses.update({
+#             temp : {
+#                 'Nama' : name,
+#                 'Kelas' : []
+#             }
+#         })
+#     elif temp != "":
+#         tempClass = element.split('\n')
+#         if (len(tempClass) > 1 and ';' in tempClass[1]):
+#             break
+#         elif len(tempClass) > 6 :
+#             courses[temp]['Kelas'].append({
+#                 'Nama' : tempClass[1],
+#                 'Jadwal' : re.findall(regexDay, tempClass[4]),
+#                 'Ruang' : tempClass[5].strip("-"), 
+#                 'Dosen' : tempClass[6].strip("- ").split("- ")
+#             })
+#         elif len(tempClass) > 5 :
+#             courses[temp]['Kelas'].append({
+#                 'Nama' : tempClass[1],
+#                 'Jadwal' : re.findall(regexDay, tempClass[4]),
+#                 'Ruang' : tempClass[5].strip("-"), 
+#                 'Dosen' : ''
+#             })
+#         elif len(tempClass) > 4 :
+#             courses[temp]['Kelas'].append({
+#                 'Nama' : tempClass[1],
+#                 'Jadwal' : re.findall(regexDay, tempClass[4]),
+#                 'Ruang' : '', 
+#                 'Dosen' : ''
+#             })
+#         elif len(tempClass) > 3 :
+#             courses[temp]['Kelas'].append({
+#                 'Nama' : tempClass[1],
+#                 'Jadwal' : '',
+#                 'Ruang' : '', 
+#                 'Dosen' : ''
+#             })
 
-with open("CoursePlan.json", "w") as file: 
-    file.write(json.dumps(courses, indent=4))
+# with open("CoursePlan.json", "w") as file: 
+#     file.write(json.dumps(courses, indent=4))
