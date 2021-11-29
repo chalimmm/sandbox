@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
 from bs4 import BeautifulSoup
@@ -24,13 +25,13 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
 driver.get("https://academic.ui.ac.id/")
 
-username = driver.find_element_by_name("u")
+username = driver.find_element(By.NAME, "u")
 username.send_keys(sys.argv[1])
 
-password = driver.find_element_by_name("p")
+password = driver.find_element(By.NAME, "p")
 password.send_keys(sys.argv[2])
 
-login = driver.find_element_by_css_selector("input[value='Login']")
+login = driver.find_element(By.CSS_SELECTOR, "input[value='Login']")
 login.click()
 
 time.sleep(3)
