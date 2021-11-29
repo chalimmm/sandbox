@@ -1,5 +1,6 @@
 streamlit
-selenium
+selenium>3.5.0
+webdriver_manager
 html-to-json
 beautifulsoup4==4.10.0
 jsonschema==2.6.0
