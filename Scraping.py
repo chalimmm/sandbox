@@ -133,6 +133,7 @@ for element in listElements:
                 'Ruang' : '', 
                 'Dosen' : ''
             })
-
+print(json.dumps(courses, indent=4))
+        
 with open("CoursePlan.json", "w") as file: 
     file.write(json.dumps(courses, indent=4))
