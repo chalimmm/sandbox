@@ -24,13 +24,13 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
 driver.get("https://academic.ui.ac.id/")
 
-username = driver.find_element(By.CSS_SELECTOR, '#u')
+username = driver.find_element_by_name("u")
 username.send_keys(sys.argv[1])
 
-password = driver.find_element(By.CSS_SELECTOR, '#login > form > p:nth-child(2) > input')
+password = driver.find_element_by_name("p")
 password.send_keys(sys.argv[2])
 
-login = driver.find_element(By.CSS_SELECTOR, "input[value='Login']")
+login = driver.find_element_by_css_selector("input[value='Login']")
 login.click()
 
 time.sleep(3)
