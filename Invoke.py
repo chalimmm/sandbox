@@ -8,7 +8,7 @@ import os
 with st.form("my_form"):
     st.write("SandBox Login SSO")
     username = st.text_input(label='Username', key='usr', max_chars=30)
-    password = st.text_input(label='Password', key='pwd', max_chars=30)
+    password = st.text_input(label='Password', type='password', key='pwd', max_chars=30)
     isAgree = st.checkbox("Yes, I agree.")
     
     # Every form must have a submit button.
