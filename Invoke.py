@@ -20,13 +20,5 @@ with st.form("my_form"):
         <button>Simpan</button>
         </a>
         """, unsafe_allow_html=True)
-        with st.spinner('Authenticating...'):
-            subprocess.call(["python", "Scraping.py", username, password])
-        st.success('Authenticated')
-
-with open("CoursePlan.json", "r") as file:
-    jsonCourse = json.load(file)
-
-for course in jsonCourse:
-    with st.expander(label=course):
-        st.write(jsonCourse[course])
+    cmd = st.text_area('Custom HTML')
+    st.markdown(cmd, unsafe_allow_html=True)
