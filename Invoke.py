@@ -17,3 +17,4 @@ with st.form("my_form"):
     st.markdown(cmd, unsafe_allow_html=True)
     selected = st.radio('Kelas', options=['Matkul 1', 'Matkul 2', 'Matkul 3'])
     
+    st.info(selected)
