@@ -14,7 +14,7 @@ with st.form("my_form"):
     # Every form must have a submit button.
     login = st.form_submit_button("Login SSO")
     cmd = st.text_area('Custom HTML')
-    st.markdown(cmd, unsafe_allow_html=True)
-    selected = st.radio('Kelas', options=['Matkul 1', 'Matkul 2', 'Matkul 3'])
-    
-    st.info(selected)
+st.markdown(cmd, unsafe_allow_html=True)
+selected = st.radio('Kelas', options=['Matkul 1', 'Matkul 2', 'Matkul 3'])
+
+st.info(selected)
