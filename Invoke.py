@@ -6,15 +6,7 @@ import json
 import os
 
 with st.form("my_form"):
-    st.write("SandBox Login SSO")
-    username = st.text_input(label='Username', key='usr', max_chars=30)
-    password = st.text_input(label='Password', type='password', key='pwd', max_chars=30)
-    isAgree = st.checkbox("Yes, I agree.")
-    
-    # Every form must have a submit button.
-    login = st.form_submit_button("Login SSO")
-    cmd = st.text_area('Custom HTML')
-st.markdown(cmd, unsafe_allow_html=True)
-selected = st.radio('Kelas', options=['Matkul 1', 'Matkul 2', 'Matkul 3'])
-
-st.info(selected)
+    st.write("SandBox Custom HTML")
+    customHtml = st.text_area('Custom HTML')
+    run = st.form_submit_button("Run")
+st.markdown(customHtml, unsafe_allow_html=True)
